@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
-<ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfRace>
 	<Race>
-		<RaceId>5</RaceId> <!-- Ikkuro -->
+		<RaceId>5</RaceId> 
 		<BundleName>Ikkuro</BundleName>
 		<FlagFilename>UserInterface/Flags/Ikkuro_1</FlagFilename>
 		<AlternateFlagFilenames>
@@ -31,13 +31,13 @@
 		<ImportanceOfOthersReputations>0.96</ImportanceOfOthersReputations>
 		<IsPlayable>true</IsPlayable>
 		<PreferredGovernmentIds>
-			<short>11</short> <!-- Harmonious Utopia -->
+			<short>11</short> 
 		</PreferredGovernmentIds>
 		<AllowableGovernmentIds>
-			<short>2</short> <!-- Democracy -->
-			<short>3</short> <!-- Feudalism -->
-			<short>11</short> <!-- Harmonious Utopia -->
-			<short>32759</short> <!-- Refugee Fleet -->
+			<short>2</short> 
+			<short>3</short> 
+			<short>11</short> 
+			<short>32759</short> 
 		</AllowableGovernmentIds>
 		<Bonuses>
 			<Bonus>
@@ -63,120 +63,120 @@
 		</Bonuses>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>7</OrbTypeId> <!-- Continental -->
+				<OrbTypeId>7</OrbTypeId> 
 				<Factor>0.1</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>8</OrbTypeId> <!-- Marshy Swamp -->
+				<OrbTypeId>8</OrbTypeId> 
 				<Factor>0.15</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>9</OrbTypeId> <!-- Ocean -->
+				<OrbTypeId>9</OrbTypeId> 
 				<Factor>0.1</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>17</OrbTypeId> <!-- Forest -->
+				<OrbTypeId>17</OrbTypeId> 
 				<Factor>0.16</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>18</OrbTypeId> <!-- Grasslands -->
+				<OrbTypeId>18</OrbTypeId> 
 				<Factor>0.1</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>20</OrbTypeId> <!-- Desert Savanna -->
+				<OrbTypeId>20</OrbTypeId> 
 				<Factor>0.15</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>21</OrbTypeId> <!-- Ice Tundra -->
+				<OrbTypeId>21</OrbTypeId> 
 				<Factor>0.05</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>27</OrbTypeId> <!-- Mangrove Forest -->
+				<OrbTypeId>27</OrbTypeId> 
 				<Factor>0.1</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<StartingResearchProjectIds>
-			<short>0</short> <!-- Early Beam Weapons -->
-			<short>2</short> <!-- Early Area Weapons -->
-			<short>6</short> <!-- Ground Combat -->
-			<short>407</short> <!-- Basic Colonization -->
+			<short>0</short> 
+			<short>2</short> 
+			<short>6</short> 
+			<short>407</short> 
 		</StartingResearchProjectIds>
 		<Biases>
 			<RaceFactor>
-				<RaceId>0</RaceId> <!-- Human -->
-				<Factor>-0.3</Factor>
+				<RaceId>0</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>1</RaceId> <!-- Ackdarian -->
-				<Factor>-0.3</Factor>
+				<RaceId>1</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>2</RaceId> <!-- Teekan -->
-				<Factor>-0.2</Factor>
+				<RaceId>2</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>3</RaceId> <!-- Haakonish -->
-				<Factor>-0.4</Factor>
+				<RaceId>3</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>4</RaceId> <!-- Mortalen -->
-				<Factor>-0.4</Factor>
+				<RaceId>4</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>6</RaceId> <!-- Boskara -->
-				<Factor>-1</Factor>
+				<RaceId>6</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>7</RaceId> <!-- Zenox -->
-				<Factor>-0.3</Factor>
+				<RaceId>7</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>8</RaceId> <!-- Wekkarus -->
-				<Factor>-0.1</Factor>
+				<RaceId>8</RaceId> 
+				<Factor>-0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>9</RaceId> <!-- Atuuk -->
-				<Factor>-0.8</Factor>
+				<RaceId>9</RaceId> 
+				<Factor>-1.200</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>10</RaceId> <!-- Dhayut -->
-				<Factor>-1</Factor>
+				<RaceId>10</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>11</RaceId> <!-- Gizurean -->
-				<Factor>-0.4</Factor>
+				<RaceId>11</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>12</RaceId> <!-- Ketarov -->
-				<Factor>-0.2</Factor>
+				<RaceId>12</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>13</RaceId> <!-- Kiadian -->
-				<Factor>-0.3</Factor>
+				<RaceId>13</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>14</RaceId> <!-- Naxxilian -->
-				<Factor>-0.2</Factor>
+				<RaceId>14</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>15</RaceId> <!-- Quameno -->
-				<Factor>0.1</Factor>
+				<RaceId>15</RaceId> 
+				<Factor>0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>16</RaceId> <!-- Securan -->
-				<Factor>0</Factor>
+				<RaceId>16</RaceId> 
+				<Factor>0.000</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>17</RaceId> <!-- Shandar -->
-				<Factor>-0.3</Factor>
+				<RaceId>17</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>18</RaceId> <!-- Sluken -->
-				<Factor>-0.2</Factor>
+				<RaceId>18</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>19</RaceId> <!-- Ugnari -->
-				<Factor>-0.4</Factor>
+				<RaceId>19</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 		</Biases>
 		<DesignNames>
@@ -228,7 +228,7 @@
 				<Type>ControlLargestColoniesByType</Type>
 				<Proportion>0.25</Proportion>
 				<Amount>1</Amount>
-				<Id>17</Id> <!-- Forest -->
+				<Id>17</Id> 
 			</VictoryCondition>
 			<VictoryCondition>
 				<Type>MostSpaceports</Type>
@@ -246,7 +246,7 @@
 				<Type>BuildFacility</Type>
 				<Proportion>0.2</Proportion>
 				<Amount>1</Amount>
-				<Id>31</Id> <!-- Koloros Medical Academy -->
+				<Id>31</Id> 
 			</VictoryCondition>
 		</VictoryConditions>
 		<CharacterFirstNames>
@@ -292,27 +292,27 @@
 		<TreatyLevelModifier>5</TreatyLevelModifier>
 		<TreatyLongTermTrustModifierThis>2</TreatyLongTermTrustModifierThis>
 		<TreatyLongTermTrustModifierOther>2</TreatyLongTermTrustModifierOther>
-		<BombardWorldColonyEventDefinitionId>54</BombardWorldColonyEventDefinitionId> <!-- Respect for Life -->
-		<DestroyWorldColonyEventDefinitionId>54</DestroyWorldColonyEventDefinitionId> <!-- Respect for Life -->
-		<ExterminationPolicyColonyEventDefinitionId>54</ExterminationPolicyColonyEventDefinitionId> <!-- Respect for Life -->
-		<ColonizationNewOrbTypeColonyEventDefinitionId>55</ColonizationNewOrbTypeColonyEventDefinitionId> <!-- Secrets of Life -->
+		<BombardWorldColonyEventDefinitionId>54</BombardWorldColonyEventDefinitionId> 
+		<DestroyWorldColonyEventDefinitionId>54</DestroyWorldColonyEventDefinitionId> 
+		<ExterminationPolicyColonyEventDefinitionId>54</ExterminationPolicyColonyEventDefinitionId> 
+		<ColonizationNewOrbTypeColonyEventDefinitionId>55</ColonizationNewOrbTypeColonyEventDefinitionId> 
 		<ColonizationNewOrbTypeIds>
-			<unsignedByte>7</unsignedByte> <!-- Continental -->
-			<unsignedByte>17</unsignedByte> <!-- Forest -->
-			<unsignedByte>18</unsignedByte> <!-- Grasslands -->
-			<unsignedByte>23</unsignedByte> <!-- Deep Ocean -->
-			<unsignedByte>9</unsignedByte> <!-- Ocean -->
-			<unsignedByte>27</unsignedByte> <!-- Mangrove Forest -->
-			<unsignedByte>8</unsignedByte> <!-- Marshy Swamp -->
-			<unsignedByte>10</unsignedByte> <!-- Sandy Desert -->
-			<unsignedByte>19</unsignedByte> <!-- Rocky Desert -->
-			<unsignedByte>20</unsignedByte> <!-- Desert Savanna -->
-			<unsignedByte>11</unsignedByte> <!-- Ice -->
-			<unsignedByte>22</unsignedByte> <!-- Frozen Ice -->
-			<unsignedByte>21</unsignedByte> <!-- Ice Tundra -->
-			<unsignedByte>12</unsignedByte> <!-- Volcanic -->
-			<unsignedByte>29</unsignedByte> <!-- Carbonaceous -->
-			<unsignedByte>30</unsignedByte> <!-- Sulphur Volcanic -->
+			<unsignedByte>7</unsignedByte> 
+			<unsignedByte>17</unsignedByte> 
+			<unsignedByte>18</unsignedByte> 
+			<unsignedByte>23</unsignedByte> 
+			<unsignedByte>9</unsignedByte> 
+			<unsignedByte>27</unsignedByte> 
+			<unsignedByte>8</unsignedByte> 
+			<unsignedByte>10</unsignedByte> 
+			<unsignedByte>19</unsignedByte> 
+			<unsignedByte>20</unsignedByte> 
+			<unsignedByte>11</unsignedByte> 
+			<unsignedByte>22</unsignedByte> 
+			<unsignedByte>21</unsignedByte> 
+			<unsignedByte>12</unsignedByte> 
+			<unsignedByte>29</unsignedByte> 
+			<unsignedByte>30</unsignedByte> 
 		</ColonizationNewOrbTypeIds>
 		<ColonizationNewOrbTypeGameEventNames>
 			<string>Colonise New Continental World (Ikkuro)</string>
@@ -332,10 +332,10 @@
 			<string>Colonise New Carbonaceous World (Ikkuro)</string>
 			<string>Colonise New Sulphur Volcanic World (Ikkuro)</string>
 		</ColonizationNewOrbTypeGameEventNames>
-		<FirstNonAggressionPerFactionColonyEventDefinitionId>56</FirstNonAggressionPerFactionColonyEventDefinitionId> <!-- Protection of Life -->
-		<FirstDefenseTreatyPerFactionColonyEventDefinitionId>56</FirstDefenseTreatyPerFactionColonyEventDefinitionId> <!-- Protection of Life -->
-		<WarStartedByUsColonyEventDefinitionId>57</WarStartedByUsColonyEventDefinitionId> <!-- Disharmony -->
-		<WarStartedByOtherColonyEventDefinitionId>57</WarStartedByOtherColonyEventDefinitionId> <!-- Disharmony -->
+		<FirstNonAggressionPerFactionColonyEventDefinitionId>56</FirstNonAggressionPerFactionColonyEventDefinitionId> 
+		<FirstDefenseTreatyPerFactionColonyEventDefinitionId>56</FirstDefenseTreatyPerFactionColonyEventDefinitionId> 
+		<WarStartedByUsColonyEventDefinitionId>57</WarStartedByUsColonyEventDefinitionId> 
+		<WarStartedByOtherColonyEventDefinitionId>57</WarStartedByOtherColonyEventDefinitionId> 
 		<AdditionalCharacterTraits>
 			<CharacterTraitType>ProtectorOfLife</CharacterTraitType>
 			<CharacterTraitType>HarvesterOfLife</CharacterTraitType>
@@ -365,7 +365,7 @@
 			<string>[HL]Protection of Life:[/HL] +5 Happiness to all colonies for one year when sign a new Non-Aggression or Defensive Treaty with another faction</string>
 			<string>[HL]Disharmony:[/HL] -10 Happiness for one year when War breaks out between Ikkuro and another faction</string>
 		</FeatureExplanations>
-		<DefaultInfantryId>37</DefaultInfantryId> <!-- Sentinel Force -->
+		<DefaultInfantryId>37</DefaultInfantryId> 
 		<Name>Ikkuro</Name>
 		<Description>Ikkuro are large, muscular primates with short brown-red fur.
 

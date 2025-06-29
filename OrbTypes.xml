@@ -1,10 +1,10 @@
-<?xml version="1.0"?>
-<ArrayOfOrbType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfOrbType>
 	<OrbType>
 		<OrbTypeId>0</OrbTypeId>
 		<Category>Star</Category>
 		<Name>Main Sequence</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/MainSequence</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/MainSequence</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/MainSequence</FullsizeImageFilename>
@@ -55,27 +55,27 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>7</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>8</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>9</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.03</Factor>
+				<Factor>0.015000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.03</Factor>
+				<Factor>0.015000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -103,31 +103,31 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>23</OrbTypeId>
-				<Factor>0.009</Factor>
+				<Factor>0.004500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>17</OrbTypeId>
-				<Factor>0.008</Factor>
+				<Factor>0.004000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>18</OrbTypeId>
-				<Factor>0.008</Factor>
+				<Factor>0.004000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>24</OrbTypeId>
@@ -143,15 +143,15 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>27</OrbTypeId>
-				<Factor>0.009</Factor>
+				<Factor>0.004500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.02</Factor>
+				<Factor>0.010000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.02</Factor>
+				<Factor>0.010000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -172,7 +172,7 @@
 		<OrbTypeId>1</OrbTypeId>
 		<Category>Star</Category>
 		<Name>Red Giant</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/RedGiant</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/RedGiant</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/RedGiant</FullsizeImageFilename>
@@ -247,27 +247,27 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>7</OrbTypeId>
-				<Factor>0.006</Factor>
+				<Factor>0.003000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>8</OrbTypeId>
-				<Factor>0.006</Factor>
+				<Factor>0.003000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>9</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.035</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.035</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -295,31 +295,31 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>23</OrbTypeId>
-				<Factor>0.008</Factor>
+				<Factor>0.004000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>17</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>18</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.03</Factor>
+				<Factor>0.015000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>24</OrbTypeId>
@@ -335,15 +335,15 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>27</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -364,7 +364,7 @@
 		<OrbTypeId>2</OrbTypeId>
 		<Category>Star</Category>
 		<Name>Super Giant</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/SuperGiant</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/SuperGiant</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/SuperGiant</FullsizeImageFilename>
@@ -439,27 +439,27 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>7</OrbTypeId>
-				<Factor>0.005</Factor>
+				<Factor>0.002500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>8</OrbTypeId>
-				<Factor>0.005</Factor>
+				<Factor>0.002500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>9</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.04</Factor>
+				<Factor>0.020000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.05</Factor>
+				<Factor>0.025000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -487,31 +487,31 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>23</OrbTypeId>
-				<Factor>0.008</Factor>
+				<Factor>0.004000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>17</OrbTypeId>
-				<Factor>0.005</Factor>
+				<Factor>0.002500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>18</OrbTypeId>
-				<Factor>0.005</Factor>
+				<Factor>0.002500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.035</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>24</OrbTypeId>
@@ -527,15 +527,15 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>27</OrbTypeId>
-				<Factor>0.005</Factor>
+				<Factor>0.002500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -556,7 +556,7 @@
 		<OrbTypeId>3</OrbTypeId>
 		<Category>Star</Category>
 		<Name>White Dwarf</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/WhiteDwarf</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/WhiteDwarf</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/WhiteDwarf</FullsizeImageFilename>
@@ -631,15 +631,15 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.04</Factor>
+				<Factor>0.020000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.06</Factor>
+				<Factor>0.030000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -667,19 +667,19 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.04</Factor>
+				<Factor>0.020000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>25</OrbTypeId>
@@ -691,11 +691,11 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.03</Factor>
+				<Factor>0.015000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.03</Factor>
+				<Factor>0.015000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -716,7 +716,7 @@
 		<OrbTypeId>4</OrbTypeId>
 		<Category>Star</Category>
 		<Name>Red Dwarf</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/RedDwarf</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/RedDwarf</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/RedDwarf</FullsizeImageFilename>
@@ -814,11 +814,11 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.06</Factor>
+				<Factor>0.030000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.06</Factor>
+				<Factor>0.030000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -842,11 +842,11 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.06</Factor>
+				<Factor>0.030000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.07</Factor>
+				<Factor>0.035000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>25</OrbTypeId>
@@ -858,11 +858,11 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.03</Factor>
+				<Factor>0.015000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.03</Factor>
+				<Factor>0.015000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -883,7 +883,7 @@
 		<OrbTypeId>5</OrbTypeId>
 		<Category>Star</Category>
 		<Name>Neutron</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/Neutron</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/Neutron</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/Neutron</FullsizeImageFilename>
@@ -1021,7 +1021,7 @@
 		<OrbTypeId>6</OrbTypeId>
 		<Category>Star</Category>
 		<Name>Black Hole</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/BlackHole</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/BlackHole</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/BlackHole</FullsizeImageFilename>
@@ -1143,7 +1143,7 @@
 		<OrbTypeId>7</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Continental</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/Continental</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/Continental</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/Continental</FullsizeImageFilename>
@@ -1269,9 +1269,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.6</QualityRangeMinimum>
+		<QualityRangeMinimum>0.650000</QualityRangeMinimum>
 		<QualityRangeMaximum>1</QualityRangeMaximum>
-		<QualityRangeMedian>0.62</QualityRangeMedian>
+		<QualityRangeMedian>0.670000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -1341,7 +1341,7 @@
 		<OrbTypeId>8</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Marshy Swamp</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/MarshySwamp</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/MarshySwamp</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/MarshySwamp</FullsizeImageFilename>
@@ -1470,9 +1470,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.44</QualityRangeMinimum>
+		<QualityRangeMinimum>0.490000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.74</QualityRangeMaximum>
-		<QualityRangeMedian>0.48</QualityRangeMedian>
+		<QualityRangeMedian>0.530000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -1536,7 +1536,7 @@
 		<OrbTypeId>9</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Ocean</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/Ocean</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/Ocean</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/Ocean</FullsizeImageFilename>
@@ -1651,9 +1651,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.35</QualityRangeMinimum>
+		<QualityRangeMinimum>0.400000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.75</QualityRangeMaximum>
-		<QualityRangeMedian>0.42</QualityRangeMedian>
+		<QualityRangeMedian>0.470000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -1726,7 +1726,7 @@
 		<OrbTypeId>10</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Sandy Desert</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/SandyDesert</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/SandyDesert</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/SandyDesert</FullsizeImageFilename>
@@ -1846,9 +1846,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.15</QualityRangeMinimum>
+		<QualityRangeMinimum>0.200000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.5</QualityRangeMaximum>
-		<QualityRangeMedian>0.17</QualityRangeMedian>
+		<QualityRangeMedian>0.220000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.112</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.496</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -1912,7 +1912,7 @@
 		<OrbTypeId>11</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Ice</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/Ice</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/IceGlacial</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/IceGlacial</FullsizeImageFilename>
@@ -2042,9 +2042,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.16</QualityRangeMinimum>
+		<QualityRangeMinimum>0.210000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.48</QualityRangeMaximum>
-		<QualityRangeMedian>0.22</QualityRangeMedian>
+		<QualityRangeMedian>0.270000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.752</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>1</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -2099,7 +2099,7 @@
 		<OrbTypeId>12</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Volcanic</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/Volcanic</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/Volcanic</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/Volcanic</FullsizeImageFilename>
@@ -2228,9 +2228,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.1</QualityRangeMinimum>
+		<QualityRangeMinimum>0.150000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.4</QualityRangeMaximum>
-		<QualityRangeMedian>0.15</QualityRangeMedian>
+		<QualityRangeMedian>0.200000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.048</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.176</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -2299,7 +2299,7 @@
 		<OrbTypeId>13</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Rocky Silicon</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/RockySilicon</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/BarrenRock</LargeImageFilename>
 		<LandscapeImageFilename>Environment/OrbTypes/Landscapes/RockySilicon</LandscapeImageFilename>
@@ -2398,7 +2398,7 @@
 		<ChildCountMaximum>1</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.15</QualityRangeMaximum>
-		<QualityRangeMedian>0.015</QualityRangeMedian>
+		<QualityRangeMedian>0.065000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.102</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.544</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -2423,7 +2423,7 @@
 		<OrbTypeId>14</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Gas Giant</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/GasGiant</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/GasGiant</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/GasGiant</FullsizeImageFilename>
@@ -2508,27 +2508,27 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>7</OrbTypeId>
-				<Factor>0.015</Factor>
+				<Factor>0.007500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>8</OrbTypeId>
-				<Factor>0.015</Factor>
+				<Factor>0.007500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>9</OrbTypeId>
-				<Factor>0.015</Factor>
+				<Factor>0.007500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.06</Factor>
+				<Factor>0.030000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.06</Factor>
+				<Factor>0.030000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.06</Factor>
+				<Factor>0.030000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -2536,31 +2536,31 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>23</OrbTypeId>
-				<Factor>0.02</Factor>
+				<Factor>0.010000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>17</OrbTypeId>
-				<Factor>0.02</Factor>
+				<Factor>0.010000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>18</OrbTypeId>
-				<Factor>0.02</Factor>
+				<Factor>0.010000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.06</Factor>
+				<Factor>0.030000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.06</Factor>
+				<Factor>0.030000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.01</Factor>
+				<Factor>0.005000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.01</Factor>
+				<Factor>0.005000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>25</OrbTypeId>
@@ -2572,22 +2572,22 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>27</OrbTypeId>
-				<Factor>0.02</Factor>
+				<Factor>0.010000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.07</Factor>
+				<Factor>0.035000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.06</Factor>
+				<Factor>0.030000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>3</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.1</QualityRangeMaximum>
-		<QualityRangeMedian>0.01</QualityRangeMedian>
+		<QualityRangeMedian>0.060000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.496</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.72</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>11000</DiameterMinimum>
@@ -2620,7 +2620,7 @@
 		<OrbTypeId>15</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Frozen Gas Giant</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/FrozenGas</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/FrozenGasGiant</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/FrozenGasGiant</FullsizeImageFilename>
@@ -2705,11 +2705,11 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.15</Factor>
+				<Factor>0.075000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.09</Factor>
+				<Factor>0.045000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -2717,11 +2717,11 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.15</Factor>
+				<Factor>0.075000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.15</Factor>
+				<Factor>0.075000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>25</OrbTypeId>
@@ -2733,18 +2733,18 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.09</Factor>
+				<Factor>0.045000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.09</Factor>
+				<Factor>0.045000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>2</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.1</QualityRangeMaximum>
-		<QualityRangeMedian>0.01</QualityRangeMedian>
+		<QualityRangeMedian>0.060000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.736</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>1</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>9000</DiameterMinimum>
@@ -2772,7 +2772,7 @@
 		<OrbTypeId>16</OrbTypeId>
 		<Category>Asteroid</Category>
 		<Name>Rocky Asteroid</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/RockyAsteroid</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/Asteroid</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/Asteroid</FullsizeImageFilename>
@@ -2900,7 +2900,7 @@
 		<OrbTypeId>17</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Forest</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/Forest</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/Forest</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/Forest</FullsizeImageFilename>
@@ -3032,9 +3032,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.55</QualityRangeMinimum>
+		<QualityRangeMinimum>0.600000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.88</QualityRangeMaximum>
-		<QualityRangeMedian>0.57</QualityRangeMedian>
+		<QualityRangeMedian>0.620000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3095,7 +3095,7 @@
 		<OrbTypeId>18</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Grasslands</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/Grasslands</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/Grasslands</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/Grasslands</FullsizeImageFilename>
@@ -3128,8 +3128,8 @@
 		<LatitudeGradient1>CoreEffects/ShaderGradients/GrasslandsLatitude1</LatitudeGradient1>
 		<LatitudeGradient2>CoreEffects/ShaderGradients/GrasslandsLatitude2</LatitudeGradient2>
 		<OceanGradient>CoreEffects/ShaderGradients/GrasslandsOcean</OceanGradient>
-		<!--SeaLevelMinimum>0.04</SeaLevelMinimum-->
-		<!--SeaLevelMaximum>0.05</SeaLevelMaximum-->
+		
+		
 		<SeaLevelMinimum>-0.035</SeaLevelMinimum>
 		<SeaLevelMaximum>-0.030</SeaLevelMaximum>
 		<MountainFactorMinimum>1.25</MountainFactorMinimum>
@@ -3209,9 +3209,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.5</QualityRangeMinimum>
+		<QualityRangeMinimum>0.550000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.8</QualityRangeMaximum>
-		<QualityRangeMedian>0.55</QualityRangeMedian>
+		<QualityRangeMedian>0.600000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3256,7 +3256,7 @@
 		<OrbTypeId>19</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Rocky Desert</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/RockyDesert</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/RockyDesert</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/RockyDesert</FullsizeImageFilename>
@@ -3395,9 +3395,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.14</QualityRangeMinimum>
+		<QualityRangeMinimum>0.190000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.49</QualityRangeMaximum>
-		<QualityRangeMedian>0.15</QualityRangeMedian>
+		<QualityRangeMedian>0.200000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.112</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.496</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3462,7 +3462,7 @@
 		<OrbTypeId>20</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Desert Savanna</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/DesertSavanna</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/SavannaDesert</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/SavannaDesert</FullsizeImageFilename>
@@ -3567,9 +3567,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.25</QualityRangeMinimum>
+		<QualityRangeMinimum>0.300000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.6</QualityRangeMaximum>
-		<QualityRangeMedian>0.31</QualityRangeMedian>
+		<QualityRangeMedian>0.360000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.112</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.496</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3616,7 +3616,7 @@
 		<OrbTypeId>21</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Ice Tundra</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/IceTundra</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/IceTundra</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Large/IceTundra</FullsizeImageFilename>
@@ -3723,9 +3723,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.24</QualityRangeMinimum>
+		<QualityRangeMinimum>0.290000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.6</QualityRangeMaximum>
-		<QualityRangeMedian>0.29</QualityRangeMedian>
+		<QualityRangeMedian>0.340000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.752</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>1</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3770,7 +3770,7 @@
 		<OrbTypeId>22</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Frozen Ice</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/FrozenIce</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/FrozenIce</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/FrozenIce</FullsizeImageFilename>
@@ -3905,9 +3905,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.13</QualityRangeMinimum>
+		<QualityRangeMinimum>0.180000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.45</QualityRangeMaximum>
-		<QualityRangeMedian>0.24</QualityRangeMedian>
+		<QualityRangeMedian>0.290000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.752</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>1</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3964,7 +3964,7 @@
 		<OrbTypeId>23</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Deep Ocean</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/DeepOcean</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/DeepOcean</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/DeepOcean</FullsizeImageFilename>
@@ -4087,9 +4087,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.32</QualityRangeMinimum>
+		<QualityRangeMinimum>0.370000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.67</QualityRangeMaximum>
-		<QualityRangeMedian>0.37</QualityRangeMedian>
+		<QualityRangeMedian>0.420000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -4152,7 +4152,7 @@
 		<OrbTypeId>24</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Brown Dwarf</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/BrownDwarf</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/BrownDwarf</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/BrownDwarf</FullsizeImageFilename>
@@ -4259,11 +4259,11 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.10</Factor>
+				<Factor>0.050000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.15</Factor>
+				<Factor>0.075000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -4271,11 +4271,11 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.10</Factor>
+				<Factor>0.050000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.10</Factor>
+				<Factor>0.050000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>25</OrbTypeId>
@@ -4287,18 +4287,18 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.15</Factor>
+				<Factor>0.075000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.10</Factor>
+				<Factor>0.050000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>2</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.05</QualityRangeMaximum>
-		<QualityRangeMedian>0.05</QualityRangeMedian>
+		<QualityRangeMedian>0.100000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.496</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.72</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>14000</DiameterMinimum>
@@ -4320,7 +4320,7 @@
 		<OrbTypeId>25</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Rocky Metallic</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/RockyMetallic</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/MetallicRock</LargeImageFilename>
 		<LandscapeImageFilename>Environment/OrbTypes/Landscapes/RockyMetallic</LandscapeImageFilename>
@@ -4432,7 +4432,7 @@
 		<ChildCountMaximum>1</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.15</QualityRangeMaximum>
-		<QualityRangeMedian>0.015</QualityRangeMedian>
+		<QualityRangeMedian>0.065000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.102</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.544</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -4475,7 +4475,7 @@
 		<OrbTypeId>26</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Rocky Ice</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/RockyIce</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/RockyIce</LargeImageFilename>
 		<LandscapeImageFilename>Environment/OrbTypes/Landscapes/RockyIce</LandscapeImageFilename>
@@ -4577,7 +4577,7 @@
 		<ChildCountMaximum>1</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.2</QualityRangeMaximum>
-		<QualityRangeMedian>0.02</QualityRangeMedian>
+		<QualityRangeMedian>0.070000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.102</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.544</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -4603,7 +4603,7 @@
 		<OrbTypeId>27</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Mangrove Forest</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/MangroveForest</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/MangroveForest</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/MangroveForest</FullsizeImageFilename>
@@ -4733,9 +4733,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.46</QualityRangeMinimum>
+		<QualityRangeMinimum>0.510000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.8</QualityRangeMaximum>
-		<QualityRangeMedian>0.5</QualityRangeMedian>
+		<QualityRangeMedian>0.550000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -4799,7 +4799,7 @@
 		<OrbTypeId>28</OrbTypeId>
 		<Category>Star</Category>
 		<Name>Blue Giant</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/BlueGiant</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/BlueGiant</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/BlueGiant</FullsizeImageFilename>
@@ -4837,7 +4837,7 @@
 		</StarLightColor>
 		<StarColorVariationFactor>0.1</StarColorVariationFactor>
 		<StarBrightnessFactor>1.0</StarBrightnessFactor>
-		<StarColorGradient></StarColorGradient>
+		<StarColorGradient />
 		<EnergyOutputMinimum>0.8</EnergyOutputMinimum>
 		<EnergyOutputMaximum>1.0</EnergyOutputMaximum>
 		<CommonBonuses>
@@ -4875,27 +4875,27 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>7</OrbTypeId>
-				<Factor>0.006</Factor>
+				<Factor>0.003000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>8</OrbTypeId>
-				<Factor>0.006</Factor>
+				<Factor>0.003000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>9</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.035</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.035</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -4923,31 +4923,31 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>23</OrbTypeId>
-				<Factor>0.008</Factor>
+				<Factor>0.004000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>17</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>18</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.03</Factor>
+				<Factor>0.015000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>24</OrbTypeId>
@@ -4963,15 +4963,15 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>27</OrbTypeId>
-				<Factor>0.007</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.025</Factor>
+				<Factor>0.012500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -4992,7 +4992,7 @@
 		<OrbTypeId>29</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Carbonaceous</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/Carbonaceous</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/Carbonaceous</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/Carbonaceous</FullsizeImageFilename>
@@ -5128,9 +5128,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.1</QualityRangeMinimum>
+		<QualityRangeMinimum>0.150000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.39</QualityRangeMaximum>
-		<QualityRangeMedian>0.26</QualityRangeMedian>
+		<QualityRangeMedian>0.310000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.048</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.236</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -5182,7 +5182,7 @@
 		<OrbTypeId>30</OrbTypeId>
 		<Category>Planet</Category>
 		<Name>Sulphur Volcanic</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/SulphurVolcanic</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/SulphurVolcanic</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/SulphurVolcanic</FullsizeImageFilename>
@@ -5214,7 +5214,7 @@
 		<CloudDensity>0.7</CloudDensity>
 		<AltitudeGradient1>CoreEffects/ShaderGradients/SulphurVolcanoAltitude1</AltitudeGradient1>
 		<AltitudeGradient2>CoreEffects/ShaderGradients/SulphurVolcanoAltitude2</AltitudeGradient2>
-		<OceanGradient></OceanGradient>
+		<OceanGradient />
 		<SeaLevelMinimum>-1</SeaLevelMinimum>
 		<SeaLevelMaximum>-1</SeaLevelMaximum>
 		<MountainFactorMinimum>0.85</MountainFactorMinimum>
@@ -5298,9 +5298,9 @@
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.05</QualityRangeMinimum>
+		<QualityRangeMinimum>0.100000</QualityRangeMinimum>
 		<QualityRangeMaximum>0.35</QualityRangeMaximum>
-		<QualityRangeMedian>0.1</QualityRangeMedian>
+		<QualityRangeMedian>0.150000</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.098</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.276</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -5351,7 +5351,7 @@
 		<OrbTypeId>31</OrbTypeId>
 		<Category>Asteroid</Category>
 		<Name>Ice Asteroid</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/IceAsteroid</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/Asteroid</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/Asteroid</FullsizeImageFilename>
@@ -5474,7 +5474,7 @@
 		<OrbTypeId>32</OrbTypeId>
 		<Category>Asteroid</Category>
 		<Name>Metallic Asteroid</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>Environment/OrbTypes/MetallicAsteroid</ImageFilename>
 		<LargeImageFilename>Environment/OrbTypes/Large/Asteroid</LargeImageFilename>
 		<FullsizeImageFilename>Environment/OrbTypes/Fullsize/Asteroid</FullsizeImageFilename>
@@ -5613,14 +5613,14 @@
 		<OrbTypeId>33</OrbTypeId>
 		<Category>Asteroid</Category>
 		<Name>Destroyed Planet Shard</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShard_01</ImageFilename>
 		<LargeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardLarge_01</LargeImageFilename>
 		<FullsizeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardFullsize_01</FullsizeImageFilename>
 		<SurfaceDrawType>StaticMaterial</SurfaceDrawType>
 		<AtmosphereDrawType>Undefined</AtmosphereDrawType>
 		<SurfaceMaterialFilenames>
-			<string></string>
+			<string />
 		</SurfaceMaterialFilenames>
 		<AtmosphereMaterialFilenames>
 		</AtmosphereMaterialFilenames>
@@ -5724,14 +5724,14 @@
 		<OrbTypeId>34</OrbTypeId>
 		<Category>Asteroid</Category>
 		<Name>Destroyed Planet Shard</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShard_02</ImageFilename>
 		<LargeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardLarge_02</LargeImageFilename>
 		<FullsizeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardFullsize_02</FullsizeImageFilename>
 		<SurfaceDrawType>StaticMaterial</SurfaceDrawType>
 		<AtmosphereDrawType>Undefined</AtmosphereDrawType>
 		<SurfaceMaterialFilenames>
-			<string></string>
+			<string />
 		</SurfaceMaterialFilenames>
 		<AtmosphereMaterialFilenames>
 		</AtmosphereMaterialFilenames>
@@ -5835,14 +5835,14 @@
 		<OrbTypeId>35</OrbTypeId>
 		<Category>Asteroid</Category>
 		<Name>Destroyed Planet Shard</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShard_03</ImageFilename>
 		<LargeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardLarge_03</LargeImageFilename>
 		<FullsizeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardFullsize_03</FullsizeImageFilename>
 		<SurfaceDrawType>StaticMaterial</SurfaceDrawType>
 		<AtmosphereDrawType>Undefined</AtmosphereDrawType>
 		<SurfaceMaterialFilenames>
-			<string></string>
+			<string />
 		</SurfaceMaterialFilenames>
 		<AtmosphereMaterialFilenames>
 		</AtmosphereMaterialFilenames>
@@ -5946,14 +5946,14 @@
 		<OrbTypeId>36</OrbTypeId>
 		<Category>Asteroid</Category>
 		<Name>Destroyed Planet Shard</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShard_04</ImageFilename>
 		<LargeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardLarge_04</LargeImageFilename>
 		<FullsizeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardFullsize_04</FullsizeImageFilename>
 		<SurfaceDrawType>StaticMaterial</SurfaceDrawType>
 		<AtmosphereDrawType>Undefined</AtmosphereDrawType>
 		<SurfaceMaterialFilenames>
-			<string></string>
+			<string />
 		</SurfaceMaterialFilenames>
 		<AtmosphereMaterialFilenames>
 		</AtmosphereMaterialFilenames>
@@ -6057,14 +6057,14 @@
 		<OrbTypeId>37</OrbTypeId>
 		<Category>Asteroid</Category>
 		<Name>Destroyed Planet Shard</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShard_05</ImageFilename>
 		<LargeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardLarge_05</LargeImageFilename>
 		<FullsizeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardFullsize_05</FullsizeImageFilename>
 		<SurfaceDrawType>StaticMaterial</SurfaceDrawType>
 		<AtmosphereDrawType>Undefined</AtmosphereDrawType>
 		<SurfaceMaterialFilenames>
-			<string></string>
+			<string />
 		</SurfaceMaterialFilenames>
 		<AtmosphereMaterialFilenames>
 		</AtmosphereMaterialFilenames>
@@ -6168,14 +6168,14 @@
 		<OrbTypeId>38</OrbTypeId>
 		<Category>Asteroid</Category>
 		<Name>Destroyed Planet Shard</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShard_06</ImageFilename>
 		<LargeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardLarge_06</LargeImageFilename>
 		<FullsizeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/ShatteredPlanetShardFullsize_06</FullsizeImageFilename>
 		<SurfaceDrawType>StaticMaterial</SurfaceDrawType>
 		<AtmosphereDrawType>Undefined</AtmosphereDrawType>
 		<SurfaceMaterialFilenames>
-			<string></string>
+			<string />
 		</SurfaceMaterialFilenames>
 		<AtmosphereMaterialFilenames>
 		</AtmosphereMaterialFilenames>
@@ -6280,7 +6280,7 @@
 		<OrbTypeId>39</OrbTypeId>
 		<Category>Asteroid</Category>
 		<Name>Destroyed Planet Asteroid</Name>
-		<Description></Description>
+		<Description />
 		<ImageFilename>PlanetDestroyer/ShatteredPlanet/Images/rockshard06</ImageFilename>
 		<LargeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/rockshard06_Large</LargeImageFilename>
 		<FullsizeImageFilename>PlanetDestroyer/ShatteredPlanet/Images/rockshard06_Fullsize</FullsizeImageFilename>

@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
-<ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfRace>
 	<Race>
-		<RaceId>15</RaceId> <!-- Quameno -->
+		<RaceId>15</RaceId> 
 		<BundleName>Quameno</BundleName>
 		<FlagFilename>UserInterface/Flags/Quameno_1</FlagFilename>
 		<AlternateFlagFilenames>
@@ -24,20 +24,20 @@
 			<A>0</A>
 		</SecondaryColor>
 		<ReproductionRate>1.05</ReproductionRate>
-		<AssimilationRate>0.75</AssimilationRate>
+		<AssimilationRate>0.375</AssimilationRate>
 		<MigrationFactor>0.8</MigrationFactor>
 		<Aggression>0.7</Aggression>
 		<Caution>1.25</Caution>
 		<Dependability>1.3</Dependability>
 		<IsPlayable>true</IsPlayable>
 		<PreferredGovernmentIds>
-			<short>13</short> <!-- Geniocracy -->
+			<short>13</short> 
 		</PreferredGovernmentIds>
 		<AllowableGovernmentIds>
-			<short>2</short> <!-- Democracy -->
-			<short>4</short> <!-- Monarchy -->
-			<short>13</short> <!-- Geniocracy -->
-			<short>32759</short> <!-- Refugee Fleet -->
+			<short>2</short> 
+			<short>4</short> 
+			<short>13</short> 
+			<short>32759</short> 
 		</AllowableGovernmentIds>
 		<Bonuses>
 			<Bonus>
@@ -93,109 +93,109 @@
 		</Bonuses>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>8</OrbTypeId> <!-- Marshy Swamp -->
+				<OrbTypeId>8</OrbTypeId> 
 				<Factor>0.15</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>9</OrbTypeId> <!-- Ocean -->
+				<OrbTypeId>9</OrbTypeId> 
 				<Factor>0.15</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>21</OrbTypeId> <!-- Ice Tundra -->
+				<OrbTypeId>21</OrbTypeId> 
 				<Factor>0.05</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>23</OrbTypeId> <!-- Deep Ocean -->
+				<OrbTypeId>23</OrbTypeId> 
 				<Factor>0.15</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>27</OrbTypeId> <!-- Mangrove Forest -->
+				<OrbTypeId>27</OrbTypeId> 
 				<Factor>0.2</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<StartingResearchProjectIds>
-			<short>768</short> <!-- Early Pulse Weapons -->
-			<short>3</short> <!-- Early Torpedo Weapons -->
-			<short>6</short> <!-- Ground Combat -->
-			<short>22</short> <!-- Robotic Troops -->
-			<short>405</short> <!-- Exploration Scanners -->
+			<short>768</short> 
+			<short>3</short> 
+			<short>6</short> 
+			<short>22</short> 
+			<short>405</short> 
 		</StartingResearchProjectIds>
 		<Biases>
 			<RaceFactor>
-				<RaceId>0</RaceId> <!-- Human -->
-				<Factor>-0.2</Factor>
+				<RaceId>0</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>1</RaceId> <!-- Ackdarian -->
-				<Factor>-0.2</Factor>
+				<RaceId>1</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>2</RaceId> <!-- Teekan -->
-				<Factor>-0.2</Factor>
+				<RaceId>2</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>3</RaceId> <!-- Haakonish -->
-				<Factor>-0.5</Factor>
+				<RaceId>3</RaceId> 
+				<Factor>-0.750</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>4</RaceId> <!-- Mortalen -->
-				<Factor>-0.3</Factor>
+				<RaceId>4</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
-				<Factor>-0.2</Factor>
+				<RaceId>5</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>6</RaceId> <!-- Boskara -->
-				<Factor>-1</Factor>
+				<RaceId>6</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>7</RaceId> <!-- Zenox -->
-				<Factor>-0.4</Factor>
+				<RaceId>7</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>8</RaceId> <!-- Wekkarus -->
-				<Factor>-0.3</Factor>
+				<RaceId>8</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>9</RaceId> <!-- Atuuk -->
-				<Factor>-0.2</Factor>
+				<RaceId>9</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>10</RaceId> <!-- Dhayut -->
-				<Factor>-0.8</Factor>
+				<RaceId>10</RaceId> 
+				<Factor>-1.200</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>11</RaceId> <!-- Gizurean -->
-				<Factor>-0.5</Factor>
+				<RaceId>11</RaceId> 
+				<Factor>-0.750</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>12</RaceId> <!-- Ketarov -->
-				<Factor>-0.3</Factor>
+				<RaceId>12</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>13</RaceId> <!-- Kiadian -->
-				<Factor>-0.2</Factor>
+				<RaceId>13</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>14</RaceId> <!-- Naxxilian -->
-				<Factor>-0.2</Factor>
+				<RaceId>14</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>16</RaceId> <!-- Securan -->
-				<Factor>-0.1</Factor>
+				<RaceId>16</RaceId> 
+				<Factor>-0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>17</RaceId> <!-- Shandar -->
-				<Factor>-0.2</Factor>
+				<RaceId>17</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>18</RaceId> <!-- Sluken -->
-				<Factor>-0.5</Factor>
+				<RaceId>18</RaceId> 
+				<Factor>-0.750</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>19</RaceId> <!-- Ugnari -->
-				<Factor>-0.2</Factor>
+				<RaceId>19</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 		</Biases>
 		<DesignNames>
@@ -241,7 +241,7 @@
 				<Type>BuildFacility</Type>
 				<Proportion>0.25</Proportion>
 				<Amount>0</Amount>
-				<Id>96</Id> <!-- Transcendence Hub -->
+				<Id>96</Id> 
 			</VictoryCondition>
 			<VictoryCondition>
 				<Type>LeastTreaties</Type>
@@ -259,7 +259,7 @@
 				<Type>EmpireBonusLevel</Type>
 				<Proportion>0.2</Proportion>
 				<Amount>0.3</Amount>
-				<Id>88</Id> <!-- ResearchAncientKnowledge -->
+				<Id>88</Id> 
 			</VictoryCondition>
 		</VictoryConditions>
 		<CharacterFirstNames>
@@ -307,21 +307,21 @@
 			<string>Nerendu</string>
 		</CharacterLastNames>
 		<StartingArtifactIds>
-			<int>0</int> <!-- Stele of Takdun -->
+			<int>0</int> 
 		</StartingArtifactIds>
 		<TreatyLevelModifier>10</TreatyLevelModifier>
-		<TreatySignedColonyEventDefinitionId>58</TreatySignedColonyEventDefinitionId> <!-- Alien Distractions -->
-		<OngoingPopulationAssimilationColonyEventDefinitionId>59</OngoingPopulationAssimilationColonyEventDefinitionId> <!-- Integration Studies -->
+		<TreatySignedColonyEventDefinitionId>58</TreatySignedColonyEventDefinitionId> 
+		<OngoingPopulationAssimilationColonyEventDefinitionId>59</OngoingPopulationAssimilationColonyEventDefinitionId> 
 		<FacilityBuiltDefinitionIds>
-			<short>96</short> <!-- Transcendence Hub -->
+			<short>96</short> 
 		</FacilityBuiltDefinitionIds>
 		<FacilityBuiltColonyEventDefinitionIds>
-			<short>60</short> <!-- The Answer -->
+			<short>60</short> 
 		</FacilityBuiltColonyEventDefinitionIds>
 		<FacilityBuiltGameEventNames>
 			<string>Build Transcendence Hub (Quameno)</string>
 		</FacilityBuiltGameEventNames>
-		<ResearchProjectCompletedAdvancedColonyEventDefinitionId>61</ResearchProjectCompletedAdvancedColonyEventDefinitionId> <!-- A Puzzle Solved -->
+		<ResearchProjectCompletedAdvancedColonyEventDefinitionId>61</ResearchProjectCompletedAdvancedColonyEventDefinitionId> 
 		<ResearchProjectCompletedAdvancedGameEventName>Implement A Puzzle Solved (Quameno)</ResearchProjectCompletedAdvancedGameEventName>
 		<ResearchProjectCompletedAdvancedMaximumChance>1</ResearchProjectCompletedAdvancedMaximumChance>
 		<ResearchProjectCompletedAdvancedMinimumTechLevel>5</ResearchProjectCompletedAdvancedMinimumTechLevel>
@@ -329,7 +329,7 @@
 			<ShipRole>ResearchStation</ShipRole>
 		</ShipRoleBuiltRoles>
 		<ShipRoleBuiltColonyEventDefinitionIds>
-			<short>62</short> <!-- Building the Future -->
+			<short>62</short> 
 		</ShipRoleBuiltColonyEventDefinitionIds>
 		<ResearchLocationDiscoveredProgressChance>0.5</ResearchLocationDiscoveredProgressChance>
 		<ResearchLocationDiscoveredProgressAmountRatio>0.25</ResearchLocationDiscoveredProgressAmountRatio>
@@ -374,7 +374,7 @@
 			<string>[HL]Ambassador Starting Trait:[/HL] All ambassadors start with Linguist trait (+5% Diplomacy, +5% Tourism Income)</string>
 			<string>[HL]Concurrent Research disabled:[/HL] can only research a single project at a time</string>
 		</FeatureExplanations>
-		<DefaultInfantryId>49</DefaultInfantryId> <!-- BattleMech Brigade -->
+		<DefaultInfantryId>49</DefaultInfantryId> 
 		<Name>Quameno</Name>
 		<Description>Quamenos are a highly intelligent amphibious race. Quamenos are tall and graceful, with long limbs and neck. Their large eyes are set on the side of their heads, giving them excellent peripheral vision with a range of nearly 360 degrees.
 

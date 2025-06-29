@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
-<ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfRace>
 	<Race>
-		<RaceId>8</RaceId> <!-- Wekkarus -->
+		<RaceId>8</RaceId> 
 		<BundleName>Wekkarus</BundleName>
 		<FlagFilename>UserInterface/Flags/wekkarus_1</FlagFilename>
 		<AlternateFlagFilenames>
@@ -24,19 +24,19 @@
 			<A>0</A>
 		</SecondaryColor>
 		<ReproductionRate>1.04</ReproductionRate>
-		<AssimilationRate>0.8</AssimilationRate>
+		<AssimilationRate>0.4</AssimilationRate>
 		<MigrationFactor>0.7</MigrationFactor>
 		<Caution>1.2</Caution>
 		<Dependability>0.9</Dependability>
 		<IsPlayable>true</IsPlayable>
 		<PreferredGovernmentIds>
-			<short>4</short> <!-- Monarchy -->
+			<short>4</short> 
 		</PreferredGovernmentIds>
 		<AllowableGovernmentIds>
-			<short>3</short> <!-- Feudalism -->
-			<short>4</short> <!-- Monarchy -->
-			<short>0</short> <!-- Republic -->
-			<short>32759</short> <!-- Refugee Fleet -->
+			<short>3</short> 
+			<short>4</short> 
+			<short>0</short> 
+			<short>32759</short> 
 		</AllowableGovernmentIds>
 		<Bonuses>
 			<Bonus>
@@ -102,99 +102,99 @@
 		</Bonuses>
 		<GrowthResources>
 			<ResourceQuantity>
-				<ResourceId>24</ResourceId> <!-- Questurian Skin -->
+				<ResourceId>24</ResourceId> 
 				<Amount>0.05</Amount>
 			</ResourceQuantity>
 			<ResourceQuantity>
-				<ResourceId>3</ResourceId> <!-- Kaasian Crystal -->
+				<ResourceId>3</ResourceId> 
 				<Amount>0.03</Amount>
 			</ResourceQuantity>
 		</GrowthResources>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>9</OrbTypeId> <!-- Ocean -->
+				<OrbTypeId>9</OrbTypeId> 
 				<Factor>0.15</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>23</OrbTypeId> <!-- Deep Ocean -->
+				<OrbTypeId>23</OrbTypeId> 
 				<Factor>0.25</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>10</OrbTypeId> <!-- Sandy Desert -->
+				<OrbTypeId>10</OrbTypeId> 
 				<Factor>-0.1</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>19</OrbTypeId> <!-- Rocky Desert -->
+				<OrbTypeId>19</OrbTypeId> 
 				<Factor>-0.1</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>20</OrbTypeId> <!-- Desert Savanna -->
+				<OrbTypeId>20</OrbTypeId> 
 				<Factor>-0.05</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<MinimumSuitabilityForColonization>
 			<OrbTypeFactor>
-				<OrbTypeId>23</OrbTypeId> <!-- Deep Ocean -->
+				<OrbTypeId>23</OrbTypeId> 
 				<Factor>0.45</Factor>
 			</OrbTypeFactor>
 		</MinimumSuitabilityForColonization>
 		<StartingResearchProjectIds>
-			<short>768</short> <!-- Early Pulse Weapons -->
-			<short>7</short> <!-- Pulsed Wave Weapons -->
-			<short>35</short> <!-- Tractor Beams -->
-			<short>262</short> <!-- Proton Ionization -->
-			<short>402</short> <!-- Penetrating Scanners -->
-			<short>251</short> <!-- Early Energy Deflectors -->
-			<short>6</short> <!-- Ground Combat -->
+			<short>768</short> 
+			<short>7</short> 
+			<short>35</short> 
+			<short>262</short> 
+			<short>402</short> 
+			<short>251</short> 
+			<short>6</short> 
 		</StartingResearchProjectIds>
 		<Biases>
 			<RaceFactor>
-				<RaceId>2</RaceId> <!-- Teekan -->
-				<Factor>-0.1</Factor>
+				<RaceId>2</RaceId> 
+				<Factor>-0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>3</RaceId> <!-- Haakonish -->
-				<Factor>-0.1</Factor>
+				<RaceId>3</RaceId> 
+				<Factor>-0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>4</RaceId> <!-- Mortalen -->
-				<Factor>-0.2</Factor>
+				<RaceId>4</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
-				<Factor>-0.1</Factor>
+				<RaceId>5</RaceId> 
+				<Factor>-0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>6</RaceId> <!-- Boskara -->
-				<Factor>-0.4</Factor>
+				<RaceId>6</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>7</RaceId> <!-- Zenox -->
-				<Factor>-0.1</Factor>
+				<RaceId>7</RaceId> 
+				<Factor>-0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>10</RaceId> <!-- Dhayut -->
-				<Factor>-0.4</Factor>
+				<RaceId>10</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>11</RaceId> <!-- Gizurean -->
-				<Factor>-0.3</Factor>
+				<RaceId>11</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>12</RaceId> <!-- Ketarov -->
-				<Factor>-0.2</Factor>
+				<RaceId>12</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>14</RaceId> <!-- Naxxilian -->
-				<Factor>-0.2</Factor>
+				<RaceId>14</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>18</RaceId> <!-- Sluken -->
-				<Factor>-0.3</Factor>
+				<RaceId>18</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>19</RaceId> <!-- Ugnari -->
-				<Factor>-0.1</Factor>
+				<RaceId>19</RaceId> 
+				<Factor>-0.150</Factor>
 			</RaceFactor>
 		</Biases>
 		<DesignNames>
@@ -240,19 +240,19 @@
 				<Type>PossessArtifact</Type>
 				<Proportion>0.1</Proportion>
 				<Amount>0</Amount>
-				<Id>65</Id> <!-- Cenotaph of the First Generation -->
+				<Id>65</Id> 
 			</VictoryCondition>
 			<VictoryCondition>
 				<Type>PossessArtifact</Type>
 				<Proportion>0.1</Proportion>
 				<Amount>0</Amount>
-				<Id>66</Id> <!-- Airship of the Ancestors -->
+				<Id>66</Id> 
 			</VictoryCondition>
 			<VictoryCondition>
 				<Type>PossessArtifact</Type>
 				<Proportion>0.1</Proportion>
 				<Amount>0</Amount>
-				<Id>67</Id> <!-- Orb of Ancestral Strength -->
+				<Id>67</Id> 
 			</VictoryCondition>
 			<VictoryCondition>
 				<Type>CaptureMostCharacters</Type>
@@ -270,7 +270,7 @@
 				<Type>ControlPlanetTypePercentage</Type>
 				<Proportion>0.25</Proportion>
 				<Amount>0.25</Amount>
-				<Id>23</Id> <!-- Deep Ocean -->
+				<Id>23</Id> 
 			</VictoryCondition>
 		</VictoryConditions>
 		<CharacterFirstNames>
@@ -318,7 +318,7 @@
 			<string>Hutan</string>
 		</CharacterLastNames>
 		<StartingArtifactIds>
-			<int>2</int> <!-- Rekarrun Crystal -->
+			<int>2</int> 
 		</StartingArtifactIds>
 		<TreatySignedTypes>
 			<EmpireRelationType>FreeTrade</EmpireRelationType>
@@ -326,9 +326,9 @@
 			<EmpireRelationType>Defense</EmpireRelationType>
 		</TreatySignedTypes>
 		<TreatySignedColonyEventDefinitionIds>
-			<short>-1</short> <!-- N/A -->
-			<short>-1</short> <!-- N/A -->
-			<short>-1</short> <!-- N/A -->
+			<short>-1</short> 
+			<short>-1</short> 
+			<short>-1</short> 
 		</TreatySignedColonyEventDefinitionIds>
 		<TreatySignedColonySelections>
 			<ColonySelection>Capital</ColonySelection>
@@ -348,7 +348,7 @@
 		<FlashesOfThePastCriticalResearchSuccessChance>1</FlashesOfThePastCriticalResearchSuccessChance>
 		<DeepLabyrinthEnemySpyDetectedChance>0.5</DeepLabyrinthEnemySpyDetectedChance>
 		<RandomGameEventPerColonyOrbTypeIds>
-			<unsignedByte>23</unsignedByte> <!-- Deep Ocean -->
+			<unsignedByte>23</unsignedByte> 
 		</RandomGameEventPerColonyOrbTypeIds>
 		<RandomGameEventNamesPerColonyOrbType>
 			<string>Riches from the Deep (Wekkarus)</string>
@@ -357,33 +357,33 @@
 			<float>0.1</float>
 		</RandomGameEventFrequencyPerColonyOrbType>
 		<CombatGhostShipGenerationChance>1.25</CombatGhostShipGenerationChance>
-		<CombatGhostShipGenerationChanceArtifactId>66</CombatGhostShipGenerationChanceArtifactId> <!-- Airship of the Ancestors -->
+		<CombatGhostShipGenerationChanceArtifactId>66</CombatGhostShipGenerationChanceArtifactId> 
 		<CombatGhostShipDurationMinimum>0.15</CombatGhostShipDurationMinimum>
 		<CombatGhostShipDurationMaximum>0.2</CombatGhostShipDurationMaximum>
 		<CombatGhostTroopGenerationChance>1.25</CombatGhostTroopGenerationChance>
-		<CombatGhostTroopGenerationChanceArtifactId>67</CombatGhostTroopGenerationChanceArtifactId> <!-- Orb of Ancestral Strength -->
+		<CombatGhostTroopGenerationChanceArtifactId>67</CombatGhostTroopGenerationChanceArtifactId> 
 		<CombatGhostTroopDurationMinimum>0.15</CombatGhostTroopDurationMinimum>
 		<CombatGhostTroopDurationMaximum>0.2</CombatGhostTroopDurationMaximum>
 		<CombatGhostGeneralGenerationChance>1.5</CombatGhostGeneralGenerationChance>
 		<CombatGhostGeneralGenerationChanceExistingGeneral>0.3</CombatGhostGeneralGenerationChanceExistingGeneral>
-		<CombatGhostGeneralGenerationChanceArtifactId>65</CombatGhostGeneralGenerationChanceArtifactId> <!-- Cenotaph of the First Generation -->
+		<CombatGhostGeneralGenerationChanceArtifactId>65</CombatGhostGeneralGenerationChanceArtifactId> 
 		<CombatGhostGeneralDurationMinimum>0.8</CombatGhostGeneralDurationMinimum>
 		<CombatGhostGeneralDurationMaximum>1.2</CombatGhostGeneralDurationMaximum>
 		<CombatGhostAdmiralGenerationChance>0.5</CombatGhostAdmiralGenerationChance>
 		<CombatGhostAdmiralGenerationChanceExistingAdmiral>0.05</CombatGhostAdmiralGenerationChanceExistingAdmiral>
-		<CombatGhostAdmiralGenerationChanceArtifactId>65</CombatGhostAdmiralGenerationChanceArtifactId> <!-- Cenotaph of the First Generation -->
+		<CombatGhostAdmiralGenerationChanceArtifactId>65</CombatGhostAdmiralGenerationChanceArtifactId> 
 		<CombatGhostAdmiralDurationMinimum>0.8</CombatGhostAdmiralDurationMinimum>
 		<CombatGhostAdmiralDurationMaximum>1.2</CombatGhostAdmiralDurationMaximum>
 		<ResearchFailureGhostScientistGenerationChance>0.3</ResearchFailureGhostScientistGenerationChance>
-		<ResearchFailureGhostScientistGenerationChanceArtifactId>65</ResearchFailureGhostScientistGenerationChanceArtifactId> <!-- Cenotaph of the First Generation -->
+		<ResearchFailureGhostScientistGenerationChanceArtifactId>65</ResearchFailureGhostScientistGenerationChanceArtifactId> 
 		<ResearchFailureGhostScientistDurationMinimum>1.5</ResearchFailureGhostScientistDurationMinimum>
 		<ResearchFailureGhostScientistDurationMaximum>2.5</ResearchFailureGhostScientistDurationMaximum>
 		<ResearchSuccessGhostScientistGenerationChance>0.3</ResearchSuccessGhostScientistGenerationChance>
-		<ResearchSuccessGhostScientistGenerationChanceArtifactId>65</ResearchSuccessGhostScientistGenerationChanceArtifactId> <!-- Cenotaph of the First Generation -->
+		<ResearchSuccessGhostScientistGenerationChanceArtifactId>65</ResearchSuccessGhostScientistGenerationChanceArtifactId> 
 		<ResearchSuccessGhostScientistDurationMinimum>1.5</ResearchSuccessGhostScientistDurationMinimum>
 		<ResearchSuccessGhostScientistDurationMaximum>2.5</ResearchSuccessGhostScientistDurationMaximum>
 		<DetectedSpyAvoidCaptureImprovementChance>0.25</DetectedSpyAvoidCaptureImprovementChance>
-		<DetectedSpyAvoidCaptureImprovementChanceArtifactId>65</DetectedSpyAvoidCaptureImprovementChanceArtifactId> <!-- Cenotaph of the First Generation -->
+		<DetectedSpyAvoidCaptureImprovementChanceArtifactId>65</DetectedSpyAvoidCaptureImprovementChanceArtifactId> 
 		<StartingCharacterExtraPositiveTraitCountAdmiral>2</StartingCharacterExtraPositiveTraitCountAdmiral>
 		<StartingCharacterExtraPositiveTraitCountGeneral>2</StartingCharacterExtraPositiveTraitCountGeneral>
 		<PsychicResistance>0.5</PsychicResistance>
@@ -420,7 +420,7 @@
 			<string>[HL]Unique Scientist trait - Ancestral Memory:[/HL] increased chance of Critical Research Success</string>
 			<string>[HL]Ancestral Memory:[/HL] Admirals and Generals have 2 additional positive traits</string>
 		</FeatureExplanations>
-		<DefaultInfantryId>42</DefaultInfantryId> <!-- Guardian Brigade -->
+		<DefaultInfantryId>42</DefaultInfantryId> 
 		<Name>Wekkarus</Name>
 		<Description>Wekkarus are large crustaceans with distinctive facial mandibles.
 

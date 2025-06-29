@@ -11,7 +11,7 @@
 		<GroundCombatResistance>0.5</GroundCombatResistance>
 		<TerraformingDamageRepairRate>0.02</TerraformingDamageRepairRate>
 		<TerraformingQualityImprovementRate>0.02</TerraformingQualityImprovementRate>
-		<TerraformingQualityMaximum>0.12</TerraformingQualityMaximum>
+		<TerraformingQualityMaximum>0.07</TerraformingQualityMaximum>
 		<FacilityFamilyId>51</FacilityFamilyId>
 		<ExclusiveWithinFamily>true</ExclusiveWithinFamily>
 		<AllowBuildingAtOutposts>true</AllowBuildingAtOutposts>
@@ -30,7 +30,7 @@
 		<GroundCombatResistance>0.5</GroundCombatResistance>
 		<TerraformingDamageRepairRate>0.04</TerraformingDamageRepairRate>
 		<TerraformingQualityImprovementRate>0.04</TerraformingQualityImprovementRate>
-		<TerraformingQualityMaximum>0.18</TerraformingQualityMaximum>
+		<TerraformingQualityMaximum>0.14</TerraformingQualityMaximum>
 		<FacilityFamilyId>51</FacilityFamilyId>
 		<FacilityFamilyLevel>1</FacilityFamilyLevel>
 		<ExclusiveWithinFamily>true</ExclusiveWithinFamily>
@@ -49,8 +49,8 @@
 		<BombardmentResistance>0.5</BombardmentResistance>
 		<GroundCombatResistance>0.5</GroundCombatResistance>
 		<TerraformingDamageRepairRate>0.05</TerraformingDamageRepairRate>
-		<TerraformingQualityImprovementRate>0.07</TerraformingQualityImprovementRate>
-		<TerraformingQualityMaximum>0.28</TerraformingQualityMaximum>
+		<TerraformingQualityImprovementRate>0.05</TerraformingQualityImprovementRate>
+		<TerraformingQualityMaximum>0.20</TerraformingQualityMaximum>
 		<FacilityFamilyId>51</FacilityFamilyId>
 		<FacilityFamilyLevel>2</FacilityFamilyLevel>
 		<ExclusiveWithinFamily>true</ExclusiveWithinFamily>
@@ -69,8 +69,8 @@
 		<BombardmentResistance>0.5</BombardmentResistance>
 		<GroundCombatResistance>0.5</GroundCombatResistance>
 		<TerraformingDamageRepairRate>0.08</TerraformingDamageRepairRate>
-		<TerraformingQualityImprovementRate>0.03</TerraformingQualityImprovementRate>
-		<TerraformingQualityMaximum>0.11</TerraformingQualityMaximum>
+		<TerraformingQualityImprovementRate>0.06</TerraformingQualityImprovementRate>
+		<TerraformingQualityMaximum>0.25</TerraformingQualityMaximum>
 		<FacilityFamilyId>51</FacilityFamilyId>
 		<FacilityFamilyLevel>3</FacilityFamilyLevel>
 		<ExclusiveWithinFamily>true</ExclusiveWithinFamily>
@@ -89,8 +89,8 @@
 		<BombardmentResistance>0.5</BombardmentResistance>
 		<GroundCombatResistance>0.5</GroundCombatResistance>
 		<TerraformingDamageRepairRate>0.1</TerraformingDamageRepairRate>
-		<TerraformingQualityImprovementRate>0.05</TerraformingQualityImprovementRate>
-		<TerraformingQualityMaximum>0.12</TerraformingQualityMaximum>
+		<TerraformingQualityImprovementRate>0.08</TerraformingQualityImprovementRate>
+		<TerraformingQualityMaximum>0.30</TerraformingQualityMaximum>
 		<FacilityFamilyId>51</FacilityFamilyId>
 		<FacilityFamilyLevel>4</FacilityFamilyLevel>
 		<ExclusiveWithinFamily>true</ExclusiveWithinFamily>

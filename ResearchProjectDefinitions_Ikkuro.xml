@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<ArrayOfResearchProjectDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfResearchProjectDefinition>
 	<ResearchProjectDefinition>
 		<ResearchProjectId>319</ResearchProjectId>
 		<Name>Focused Fusion Projection</Name>
@@ -9,15 +9,15 @@
 			<Money>2000</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>11</ResourceId> <!-- Cuprica -->
+					<ResourceId>11</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -28,47 +28,47 @@
 		<Row>9</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>0</ResearchProjectId> <!-- Early Beam Weapons -->
+				<ResearchProjectId>0</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 			<ResearchPath>
-				<ResearchProjectId>333</ResearchProjectId> <!-- Quantum Exploitation -->
+				<ResearchProjectId>333</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 			<ResearchPath>
-				<ResearchProjectId>331</ResearchProjectId> <!-- Fusion Physics -->
+				<ResearchProjectId>331</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>2</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>252</ComponentId> <!-- Fusion Beam [Ftr] -->
+				<ComponentId>252</ComponentId> 
 				<Level>0</Level>
 			</Component>
 			<Component>
-				<ComponentId>256</ComponentId> <!-- Fusion Beam [S] -->
+				<ComponentId>256</ComponentId> 
 				<Level>0</Level>
 			</Component>
 			<Component>
-				<ComponentId>259</ComponentId> <!-- Fusion Beam [M] -->
+				<ComponentId>259</ComponentId> 
 				<Level>0</Level>
 			</Component>
 			<Component>
-				<ComponentId>254</ComponentId> <!-- Fusion Beam [L] -->
+				<ComponentId>254</ComponentId> 
 				<Level>0</Level>
 			</Component>
 		</Components>
@@ -83,11 +83,11 @@
 			<Money>500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>50</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>50</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -98,23 +98,23 @@
 		<Row>102</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>254</ResearchProjectId> <!-- Starship Maneuvering -->
+				<ResearchProjectId>254</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>309</ComponentId> <!-- Splinter Pods -->
+				<ComponentId>309</ComponentId> 
 				<Level>0</Level>
 			</Component>
 		</Components>
@@ -130,15 +130,15 @@
 			<Money>2000</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -149,23 +149,23 @@
 		<Row>129</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>269</ResearchProjectId> <!-- Deep Space Damage Control -->
+				<ResearchProjectId>269</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>174</ComponentId> <!-- SF27 Organic Hull -->
+				<ComponentId>174</ComponentId> 
 				<Level>0</Level>
 			</Component>
 		</Components>
@@ -180,11 +180,11 @@
 			<Money>4500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>450</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>450</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -195,23 +195,23 @@
 		<Row>102</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>330</ResearchProjectId> <!-- Regenerating Hull Splinters -->
+				<ResearchProjectId>330</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>309</ComponentId> <!-- Splinter Pods -->
+				<ComponentId>309</ComponentId> 
 				<Level>1</Level>
 			</Component>
 		</Components>
@@ -226,15 +226,15 @@
 			<Money>18000</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1800</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1800</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>11</ResourceId> <!-- Cuprica -->
+					<ResourceId>11</ResourceId> 
 					<Amount>1800</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -249,35 +249,35 @@
 		<Row>9</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>774</ResearchProjectId> <!-- Improved Fusion Weapons -->
+				<ResearchProjectId>774</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>252</ComponentId> <!-- Fusion Beam [Ftr] -->
+				<ComponentId>252</ComponentId> 
 				<Level>2</Level>
 			</Component>
 			<Component>
-				<ComponentId>256</ComponentId> <!-- Fusion Beam [S] -->
+				<ComponentId>256</ComponentId> 
 				<Level>2</Level>
 			</Component>
 			<Component>
-				<ComponentId>259</ComponentId> <!-- Fusion Beam [M] -->
+				<ComponentId>259</ComponentId> 
 				<Level>2</Level>
 			</Component>
 			<Component>
-				<ComponentId>254</ComponentId> <!-- Fusion Beam [L] -->
+				<ComponentId>254</ComponentId> 
 				<Level>2</Level>
 			</Component>
 		</Components>
@@ -292,15 +292,15 @@
 			<Money>8000</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>800</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>800</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>800</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -315,23 +315,23 @@
 		<Row>129</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>360</ResearchProjectId> <!-- Rapid Hull Regeneration -->
+				<ResearchProjectId>360</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>174</ComponentId> <!-- SF27 Organic Hull -->
+				<ComponentId>174</ComponentId> 
 				<Level>1</Level>
 			</Component>
 		</Components>
@@ -346,11 +346,11 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -365,23 +365,23 @@
 		<Row>102</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>377</ResearchProjectId> <!-- Fast Splinter Expulsion -->
+				<ResearchProjectId>377</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>309</ComponentId> <!-- Splinter Pods -->
+				<ComponentId>309</ComponentId> 
 				<Level>2</Level>
 			</Component>
 		</Components>
@@ -396,11 +396,11 @@
 			<Money>24500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>2450</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>2450</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -415,23 +415,23 @@
 		<Row>102</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>511</ResearchProjectId> <!-- Improved Splinter Integrity -->
+				<ResearchProjectId>511</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>309</ComponentId> <!-- Splinter Pods -->
+				<ComponentId>309</ComponentId> 
 				<Level>3</Level>
 			</Component>
 		</Components>
@@ -446,15 +446,15 @@
 			<Money>18000</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1800</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1800</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1800</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -469,23 +469,23 @@
 		<Row>129</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>494</ResearchProjectId> <!-- Resilient Hull Regeneration -->
+				<ResearchProjectId>494</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>174</ComponentId> <!-- SF27 Organic Hull -->
+				<ComponentId>174</ComponentId> 
 				<Level>2</Level>
 			</Component>
 		</Components>
@@ -500,15 +500,15 @@
 			<Money>8000</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>800</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>800</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>11</ResourceId> <!-- Cuprica -->
+					<ResourceId>11</ResourceId> 
 					<Amount>800</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -523,35 +523,35 @@
 		<Row>9</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>319</ResearchProjectId> <!-- Focused Fusion Projection -->
+				<ResearchProjectId>319</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>252</ComponentId> <!-- Fusion Beam [Ftr] -->
+				<ComponentId>252</ComponentId> 
 				<Level>1</Level>
 			</Component>
 			<Component>
-				<ComponentId>256</ComponentId> <!-- Fusion Beam [S] -->
+				<ComponentId>256</ComponentId> 
 				<Level>1</Level>
 			</Component>
 			<Component>
-				<ComponentId>259</ComponentId> <!-- Fusion Beam [M] -->
+				<ComponentId>259</ComponentId> 
 				<Level>1</Level>
 			</Component>
 			<Component>
-				<ComponentId>254</ComponentId> <!-- Fusion Beam [L] -->
+				<ComponentId>254</ComponentId> 
 				<Level>1</Level>
 			</Component>
 		</Components>
@@ -566,39 +566,39 @@
 			<Money>2000</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>200</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -609,28 +609,28 @@
 		<Row>167</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>407</ResearchProjectId> <!-- Basic Colonization -->
+				<ResearchProjectId>407</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>99</ComponentId> <!-- Colonization Module -->
+				<ComponentId>99</ComponentId> 
 				<Level>1</Level>
 			</Component>
 		</Components>
 		<PlanetaryFacilityIds>
-			<short>89</short> <!-- Limited Biome Shaping Facility -->
+			<short>89</short> 
 		</PlanetaryFacilityIds>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
 	</ResearchProjectDefinition>
@@ -643,43 +643,43 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>78</ResourceId> <!-- Hexodorium -->
+					<ResourceId>78</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -694,28 +694,28 @@
 		<Row>167</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>791</ResearchProjectId> <!-- Improved Colonization -->
+				<ResearchProjectId>791</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<Components>
 			<Component>
-				<ComponentId>99</ComponentId> <!-- Colonization Module -->
+				<ComponentId>99</ComponentId> 
 				<Level>2</Level>
 			</Component>
 		</Components>
 		<PlanetaryFacilityIds>
-			<short>90</short> <!-- Biome Shaping Facility -->
+			<short>90</short> 
 		</PlanetaryFacilityIds>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
 	</ResearchProjectDefinition>
@@ -728,11 +728,11 @@
 			<Money>18000</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1800</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>78</ResourceId> <!-- Hexodorium -->
+					<ResourceId>78</ResourceId> 
 					<Amount>1800</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -747,22 +747,22 @@
 		<Row>167</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>792</ResearchProjectId> <!-- Enhanced Colonization -->
+				<ResearchProjectId>792</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<PlanetaryFacilityIds>
-			<short>91</short> <!-- Enhanced Biome Shaping Facility -->
+			<short>91</short> 
 		</PlanetaryFacilityIds>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
 	</ResearchProjectDefinition>
@@ -775,11 +775,11 @@
 			<Money>24500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>2450</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>78</ResourceId> <!-- Hexodorium -->
+					<ResourceId>78</ResourceId> 
 					<Amount>2450</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -794,22 +794,22 @@
 		<Row>167</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>793</ResearchProjectId> <!-- Improved Habitability -->
+				<ResearchProjectId>793</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<PlanetaryFacilityIds>
-			<short>92</short> <!-- Advanced Biome Shaping Facility -->
+			<short>92</short> 
 		</PlanetaryFacilityIds>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
 	</ResearchProjectDefinition>
@@ -822,11 +822,11 @@
 			<Money>32000</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>3200</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>78</ResourceId> <!-- Hexodorium -->
+					<ResourceId>78</ResourceId> 
 					<Amount>3200</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -841,22 +841,22 @@
 		<Row>167</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>794</ResearchProjectId> <!-- Advanced Habitability -->
+				<ResearchProjectId>794</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<PlanetaryFacilityIds>
-			<short>93</short> <!-- Complete Biome Shaping Facility -->
+			<short>93</short> 
 		</PlanetaryFacilityIds>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
 	</ResearchProjectDefinition>
@@ -869,39 +869,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -912,24 +912,24 @@
 		<Row>150</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>779</ResearchProjectId> <!-- Improved Continental Colonization -->
+				<ResearchProjectId>779</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>7</OrbTypeId> <!-- Continental -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>7</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -943,39 +943,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -986,24 +986,24 @@
 		<Row>151</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>780</ResearchProjectId> <!-- Improved Temperate Colonization -->
+				<ResearchProjectId>780</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>17</OrbTypeId> <!-- Forest -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>17</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1017,39 +1017,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1060,24 +1060,24 @@
 		<Row>152</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>780</ResearchProjectId> <!-- Improved Temperate Colonization -->
+				<ResearchProjectId>780</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>18</OrbTypeId> <!-- Grasslands -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>18</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1091,39 +1091,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1134,24 +1134,24 @@
 		<Row>153</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>781</ResearchProjectId> <!-- Improved Water Colonization -->
+				<ResearchProjectId>781</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>23</OrbTypeId> <!-- Deep Ocean -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>23</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1165,39 +1165,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1208,24 +1208,24 @@
 		<Row>154</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>781</ResearchProjectId> <!-- Improved Water Colonization -->
+				<ResearchProjectId>781</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>9</OrbTypeId> <!-- Ocean -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>9</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1239,39 +1239,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1282,24 +1282,24 @@
 		<Row>155</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>786</ResearchProjectId> <!-- Improved Marsh Colonization -->
+				<ResearchProjectId>786</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>27</OrbTypeId> <!-- Mangrove Forest -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>27</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1313,39 +1313,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1356,24 +1356,24 @@
 		<Row>156</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>786</ResearchProjectId> <!-- Improved Marsh Colonization -->
+				<ResearchProjectId>786</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>8</OrbTypeId> <!-- Marshy Swamp -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>8</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1387,39 +1387,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1430,24 +1430,24 @@
 		<Row>157</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>782</ResearchProjectId> <!-- Improved Desert Colonization -->
+				<ResearchProjectId>782</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>10</OrbTypeId> <!-- Sandy Desert -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>10</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1461,39 +1461,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1504,24 +1504,24 @@
 		<Row>158</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>782</ResearchProjectId> <!-- Improved Desert Colonization -->
+				<ResearchProjectId>782</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>19</OrbTypeId> <!-- Rocky Desert -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>19</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1535,39 +1535,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1578,24 +1578,24 @@
 		<Row>159</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>782</ResearchProjectId> <!-- Improved Desert Colonization -->
+				<ResearchProjectId>782</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>20</OrbTypeId> <!-- Desert Savanna -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>20</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1609,39 +1609,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1652,24 +1652,24 @@
 		<Row>160</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>783</ResearchProjectId> <!-- Improved Ice Colonization -->
+				<ResearchProjectId>783</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>11</OrbTypeId> <!-- Ice -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>11</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1683,39 +1683,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1726,24 +1726,24 @@
 		<Row>161</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>783</ResearchProjectId> <!-- Improved Ice Colonization -->
+				<ResearchProjectId>783</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>22</OrbTypeId> <!-- Frozen Ice -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>22</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1757,39 +1757,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1800,24 +1800,24 @@
 		<Row>162</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>783</ResearchProjectId> <!-- Improved Ice Colonization -->
+				<ResearchProjectId>783</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>21</OrbTypeId> <!-- Ice Tundra -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>21</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1831,39 +1831,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1874,24 +1874,24 @@
 		<Row>163</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>784</ResearchProjectId> <!-- Improved Volcanic Colonization -->
+				<ResearchProjectId>784</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>12</OrbTypeId> <!-- Volcanic -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>12</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1905,39 +1905,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -1948,24 +1948,24 @@
 		<Row>164</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>784</ResearchProjectId> <!-- Improved Volcanic Colonization -->
+				<ResearchProjectId>784</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>29</OrbTypeId> <!-- Carbonaceous -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>29</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>
@@ -1979,39 +1979,39 @@
 			<Money>12500</Money>
 			<Resources>
 				<ResourceQuantity>
-					<ResourceId>0</ResourceId> <!-- Emeros Crystal -->
+					<ResourceId>0</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>1</ResourceId> <!-- Nekros Stone -->
+					<ResourceId>1</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>4</ResourceId> <!-- Argon -->
+					<ResourceId>4</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>5</ResourceId> <!-- Krypton -->
+					<ResourceId>5</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>7</ResourceId> <!-- Silicon -->
+					<ResourceId>7</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>8</ResourceId> <!-- Steel -->
+					<ResourceId>8</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>9</ResourceId> <!-- Mebnar -->
+					<ResourceId>9</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>12</ResourceId> <!-- Polymer -->
+					<ResourceId>12</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 				<ResourceQuantity>
-					<ResourceId>13</ResourceId> <!-- Carbonite -->
+					<ResourceId>13</ResourceId> 
 					<Amount>1250</Amount>
 				</ResourceQuantity>
 			</Resources>
@@ -2022,24 +2022,24 @@
 		<Row>165</Row>
 		<AllowedRaceIds>
 			<RaceProbability>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 				<Probability>1</Probability>
 			</RaceProbability>
 		</AllowedRaceIds>
 		<PrerequisiteProjects>
 			<ResearchPath>
-				<ResearchProjectId>784</ResearchProjectId> <!-- Improved Volcanic Colonization -->
+				<ResearchProjectId>784</ResearchProjectId> 
 				<PathAppearanceLikelihood>1</PathAppearanceLikelihood>
 				<Priority>0</Priority>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
+				<RaceId>5</RaceId> 
 			</ResearchPath>
 		</PrerequisiteProjects>
 		<ParentProjectsMinimumPathCount>0</ParentProjectsMinimumPathCount>
 		<PrerequisiteProjectsMinimumPathCount>0</PrerequisiteProjectsMinimumPathCount>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>30</OrbTypeId> <!-- Sulphur Volcanic -->
-				<Factor>0.1</Factor>
+				<OrbTypeId>30</OrbTypeId> 
+				<Factor>0.150000</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<RepeatableTechLimit>0</RepeatableTechLimit>

@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
-<ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfRace>
 	<Race>
-		<RaceId>20</RaceId> <!-- Shakturi -->
+		<RaceId>20</RaceId> 
 		<BundleName>Shakturi</BundleName>
 		<FlagFilename>UserInterface/Flags/Shakturi_1</FlagFilename>
 		<AlternateFlagFilenames>
@@ -24,18 +24,18 @@
 			<A>0</A>
 		</SecondaryColor>
 		<ReproductionRate>1.08</ReproductionRate>
-		<AssimilationRate>0.2</AssimilationRate>
+		<AssimilationRate>0.1</AssimilationRate>
 		<Aggression>1.8</Aggression>
 		<Caution>0.5</Caution>
 		<Dependability>0.5</Dependability>
 		<ImportanceOfOthersReputations>0</ImportanceOfOthersReputations>
 		<PreventUseAsIndependent>true</PreventUseAsIndependent>
 		<PreferredGovernmentIds>
-			<short>8</short> <!-- Way of Darkness -->
+			<short>8</short> 
 		</PreferredGovernmentIds>
 		<AllowableGovernmentIds>
-			<short>8</short> <!-- Way of Darkness -->
-			<short>15</short> <!-- N/A -->
+			<short>8</short> 
+			<short>15</short> 
 		</AllowableGovernmentIds>
 		<Bonuses>
 			<Bonus>
@@ -96,132 +96,132 @@
 		</Bonuses>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>10</OrbTypeId> <!-- Sandy Desert -->
+				<OrbTypeId>10</OrbTypeId> 
 				<Factor>0.1</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>11</OrbTypeId> <!-- Ice -->
+				<OrbTypeId>11</OrbTypeId> 
 				<Factor>-0.15</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>12</OrbTypeId> <!-- Volcanic -->
+				<OrbTypeId>12</OrbTypeId> 
 				<Factor>0.5</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>19</OrbTypeId> <!-- Rocky Desert -->
+				<OrbTypeId>19</OrbTypeId> 
 				<Factor>0.15</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>20</OrbTypeId> <!-- Desert Savanna -->
+				<OrbTypeId>20</OrbTypeId> 
 				<Factor>0.05</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>21</OrbTypeId> <!-- Ice Tundra -->
+				<OrbTypeId>21</OrbTypeId> 
 				<Factor>-0.1</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>22</OrbTypeId> <!-- Frozen Ice -->
+				<OrbTypeId>22</OrbTypeId> 
 				<Factor>-0.2</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>29</OrbTypeId> <!-- Carbonaceous -->
+				<OrbTypeId>29</OrbTypeId> 
 				<Factor>0.5</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>30</OrbTypeId> <!-- Sulphur Volcanic -->
+				<OrbTypeId>30</OrbTypeId> 
 				<Factor>0.35</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<PreferredWeaponComponentIds>
-			<short>24</short> <!-- Firestorm Torpedo [Ftr] -->
-			<short>161</short> <!-- Firestorm Torpedo [L] -->
-			<short>235</short> <!-- Firestorm Torpedo [S] -->
-			<short>393</short> <!-- Inferno Torpedo [Ftr] -->
-			<short>394</short> <!-- Inferno Torpedo [S] -->
-			<short>395</short> <!-- Inferno Torpedo [M] -->
-			<short>396</short> <!-- Inferno Torpedo [L] -->
+			<short>24</short> 
+			<short>161</short> 
+			<short>235</short> 
+			<short>393</short> 
+			<short>394</short> 
+			<short>395</short> 
+			<short>396</short> 
 		</PreferredWeaponComponentIds>
 		<PsychicResistance>0.9</PsychicResistance>
 		<Biases>
 			<RaceFactor>
-				<RaceId>0</RaceId> <!-- Human -->
-				<Factor>-0.9</Factor>
+				<RaceId>0</RaceId> 
+				<Factor>-1.350</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>1</RaceId> <!-- Ackdarian -->
-				<Factor>-1</Factor>
+				<RaceId>1</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>2</RaceId> <!-- Teekan -->
-				<Factor>-0.7</Factor>
+				<RaceId>2</RaceId> 
+				<Factor>-1.050</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>3</RaceId> <!-- Haakonish -->
-				<Factor>-0.7</Factor>
+				<RaceId>3</RaceId> 
+				<Factor>-1.050</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>4</RaceId> <!-- Mortalen -->
-				<Factor>-0.5</Factor>
+				<RaceId>4</RaceId> 
+				<Factor>-0.750</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
-				<Factor>-1</Factor>
+				<RaceId>5</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>6</RaceId> <!-- Boskara -->
-				<Factor>-1</Factor>
+				<RaceId>6</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>7</RaceId> <!-- Zenox -->
-				<Factor>-0.8</Factor>
+				<RaceId>7</RaceId> 
+				<Factor>-1.200</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>8</RaceId> <!-- Wekkarus -->
-				<Factor>-0.7</Factor>
+				<RaceId>8</RaceId> 
+				<Factor>-1.050</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>9</RaceId> <!-- Atuuk -->
-				<Factor>-0.7</Factor>
+				<RaceId>9</RaceId> 
+				<Factor>-1.050</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>10</RaceId> <!-- Dhayut -->
-				<Factor>-0.2</Factor>
+				<RaceId>10</RaceId> 
+				<Factor>-0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>11</RaceId> <!-- Gizurean -->
-				<Factor>-0.3</Factor>
+				<RaceId>11</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>12</RaceId> <!-- Ketarov -->
-				<Factor>-0.7</Factor>
+				<RaceId>12</RaceId> 
+				<Factor>-1.050</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>13</RaceId> <!-- Kiadian -->
-				<Factor>-1</Factor>
+				<RaceId>13</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>14</RaceId> <!-- Naxxilian -->
-				<Factor>-0.5</Factor>
+				<RaceId>14</RaceId> 
+				<Factor>-0.750</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>15</RaceId> <!-- Quameno -->
-				<Factor>-0.6</Factor>
+				<RaceId>15</RaceId> 
+				<Factor>-0.900</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>16</RaceId> <!-- Securan -->
-				<Factor>-0.8</Factor>
+				<RaceId>16</RaceId> 
+				<Factor>-1.200</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>17</RaceId> <!-- Shandar -->
-				<Factor>-0.5</Factor>
+				<RaceId>17</RaceId> 
+				<Factor>-0.750</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>18</RaceId> <!-- Sluken -->
-				<Factor>-0.3</Factor>
+				<RaceId>18</RaceId> 
+				<Factor>-0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>19</RaceId> <!-- Ugnari -->
-				<Factor>-0.7</Factor>
+				<RaceId>19</RaceId> 
+				<Factor>-1.050</Factor>
 			</RaceFactor>
 		</Biases>
 		<DesignNames>
@@ -339,7 +339,7 @@
 			<CharacterMissionType>DestroyFacility</CharacterMissionType>
 			<CharacterMissionType>InfectColonyWithPlague</CharacterMissionType>
 		</AllowableIntelligenceMissionTypes>
-		<DefaultInfantryId>54</DefaultInfantryId> <!-- Slayer Swarm -->
+		<DefaultInfantryId>54</DefaultInfantryId> 
 		<Name>Shakturi</Name>
 		<Description>The Shakturi are an extinct race of insectoid aliens that are said to have inhabited the galaxy long ago.
 

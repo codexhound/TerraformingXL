@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
-<ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfRace>
 	<Race>
-		<RaceId>9</RaceId> <!-- Atuuk -->
+		<RaceId>9</RaceId> 
 		<BundleName>Atuuk</BundleName>
 		<FlagFilename>UserInterface/Flags/Atuuk_1</FlagFilename>
 		<AlternateFlagFilenames>
@@ -24,20 +24,20 @@
 			<A>0</A>
 		</SecondaryColor>
 		<ReproductionRate>1.09</ReproductionRate>
-		<AssimilationRate>1.3</AssimilationRate>
+		<AssimilationRate>0.65</AssimilationRate>
 		<MigrationFactor>1.5</MigrationFactor>
 		<Aggression>1.05</Aggression>
 		<Caution>0.5</Caution>
 		<Dependability>1.25</Dependability>
 		<IsPlayable>true</IsPlayable>
 		<PreferredGovernmentIds>
-			<short>4</short> <!-- Monarchy -->
+			<short>4</short> 
 		</PreferredGovernmentIds>
 		<AllowableGovernmentIds>
-			<short>2</short> <!-- Democracy -->
-			<short>3</short> <!-- Feudalism -->
-			<short>4</short> <!-- Monarchy -->
-			<short>32759</short> <!-- Refugee Fleet -->
+			<short>2</short> 
+			<short>3</short> 
+			<short>4</short> 
+			<short>32759</short> 
 		</AllowableGovernmentIds>
 		<Bonuses>
 			<Bonus>
@@ -148,114 +148,114 @@
 		</Bonuses>
 		<GrowthResources>
 			<ResourceQuantity>
-				<ResourceId>26</ResourceId> <!-- Caguar Fur -->
+				<ResourceId>26</ResourceId> 
 				<Amount>0.05</Amount>
 			</ResourceQuantity>
 			<ResourceQuantity>
-				<ResourceId>21</ResourceId> <!-- Rephidium Ale -->
+				<ResourceId>21</ResourceId> 
 				<Amount>0.03</Amount>
 			</ResourceQuantity>
 		</GrowthResources>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>17</OrbTypeId> <!-- Forest -->
+				<OrbTypeId>17</OrbTypeId> 
 				<Factor>0.15</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>18</OrbTypeId> <!-- Grasslands -->
+				<OrbTypeId>18</OrbTypeId> 
 				<Factor>0.1</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>27</OrbTypeId> <!-- Mangrove Forest -->
+				<OrbTypeId>27</OrbTypeId> 
 				<Factor>0.1</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<StartingResearchProjectIds>
-			<short>4</short> <!-- Missile Weapons -->
-			<short>394</short> <!-- Basic Recreation Systems -->
-			<short>5</short> <!-- Kinetic Weapons -->
-			<short>6</short> <!-- Ground Combat -->
+			<short>4</short> 
+			<short>394</short> 
+			<short>5</short> 
+			<short>6</short> 
 		</StartingResearchProjectIds>
 		<Biases>
 			<RaceFactor>
-				<RaceId>0</RaceId> <!-- Human -->
-				<Factor>0.1</Factor>
+				<RaceId>0</RaceId> 
+				<Factor>0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>1</RaceId> <!-- Ackdarian -->
-				<Factor>0.2</Factor>
+				<RaceId>1</RaceId> 
+				<Factor>0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>2</RaceId> <!-- Teekan -->
-				<Factor>0.2</Factor>
+				<RaceId>2</RaceId> 
+				<Factor>0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>3</RaceId> <!-- Haakonish -->
-				<Factor>0</Factor>
+				<RaceId>3</RaceId> 
+				<Factor>0.000</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>4</RaceId> <!-- Mortalen -->
-				<Factor>0</Factor>
+				<RaceId>4</RaceId> 
+				<Factor>0.000</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
-				<Factor>0.1</Factor>
+				<RaceId>5</RaceId> 
+				<Factor>0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>6</RaceId> <!-- Boskara -->
-				<Factor>0</Factor>
+				<RaceId>6</RaceId> 
+				<Factor>0.000</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>7</RaceId> <!-- Zenox -->
-				<Factor>0.2</Factor>
+				<RaceId>7</RaceId> 
+				<Factor>0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>8</RaceId> <!-- Wekkarus -->
-				<Factor>0.1</Factor>
+				<RaceId>8</RaceId> 
+				<Factor>0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>9</RaceId> <!-- Atuuk -->
-				<Factor>0.2</Factor>
+				<RaceId>9</RaceId> 
+				<Factor>0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>10</RaceId> <!-- Dhayut -->
-				<Factor>0</Factor>
+				<RaceId>10</RaceId> 
+				<Factor>0.000</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>11</RaceId> <!-- Gizurean -->
-				<Factor>0</Factor>
+				<RaceId>11</RaceId> 
+				<Factor>0.000</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>12</RaceId> <!-- Ketarov -->
-				<Factor>0.1</Factor>
+				<RaceId>12</RaceId> 
+				<Factor>0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>13</RaceId> <!-- Kiadian -->
-				<Factor>0.1</Factor>
+				<RaceId>13</RaceId> 
+				<Factor>0.150</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>14</RaceId> <!-- Naxxilian -->
-				<Factor>0</Factor>
+				<RaceId>14</RaceId> 
+				<Factor>0.000</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>15</RaceId> <!-- Quameno -->
-				<Factor>0.2</Factor>
+				<RaceId>15</RaceId> 
+				<Factor>0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>16</RaceId> <!-- Securan -->
-				<Factor>0.3</Factor>
+				<RaceId>16</RaceId> 
+				<Factor>0.450</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>17</RaceId> <!-- Shandar -->
-				<Factor>0.2</Factor>
+				<RaceId>17</RaceId> 
+				<Factor>0.300</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>18</RaceId> <!-- Sluken -->
-				<Factor>0</Factor>
+				<RaceId>18</RaceId> 
+				<Factor>0.000</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>19</RaceId> <!-- Ugnari -->
-				<Factor>0.1</Factor>
+				<RaceId>19</RaceId> 
+				<Factor>0.150</Factor>
 			</RaceFactor>
 		</Biases>
 		<DesignNames>
@@ -341,7 +341,7 @@
 			<string>Unkas</string>
 		</CharacterLastNames>
 		<StartingArtifactIds>
-			<int>1</int> <!-- Scroll of Generations -->
+			<int>1</int> 
 		</StartingArtifactIds>
 		<TreatySignedTypes>
 			<EmpireRelationType>FreeTrade</EmpireRelationType>
@@ -349,9 +349,9 @@
 			<EmpireRelationType>Defense</EmpireRelationType>
 		</TreatySignedTypes>
 		<TreatySignedColonyEventDefinitionIds>
-			<short>-1</short> <!-- N/A -->
-			<short>-1</short> <!-- N/A -->
-			<short>-1</short> <!-- N/A -->
+			<short>-1</short> 
+			<short>-1</short> 
+			<short>-1</short> 
 		</TreatySignedColonyEventDefinitionIds>
 		<TreatySignedColonySelections>
 			<ColonySelection>Capital</ColonySelection>
@@ -368,7 +368,7 @@
 				<Name>Smarter</Name>
 				<DescriptionBonuses>[HL]Bonuses:[/HL]\n[ULI]+30% All Research[/ULI][ULI]+30% Plague Curing[/ULI][ULI]+30% Plague Containment[/ULI]</DescriptionBonuses>
 				<DescriptionObjective>[HL]Victory Objective:[/HL] Complete research in a project of tech level 6 or higher</DescriptionObjective>
-				<ColonyEventDefinitionId>107</ColonyEventDefinitionId> <!-- The Great Direction - Smarter -->
+				<ColonyEventDefinitionId>107</ColonyEventDefinitionId> 
 				<ObjectiveGameEventName>Great Direction - Smarter Objective (Atuuk)</ObjectiveGameEventName>
 				<VictoryObjectiveName>Great Direction: Smarter</VictoryObjectiveName>
 				<VictoryObjectiveAmount>0.15</VictoryObjectiveAmount>
@@ -377,7 +377,7 @@
 				<Name>Friendlier</Name>
 				<DescriptionBonuses>[HL]Bonuses:[/HL]\n[ULI]+40% Diplomacy[/ULI][ULI]+40% Psy Ops[/ULI][ULI]+10% Colony Happiness[/ULI]</DescriptionBonuses>
 				<DescriptionObjective>[HL]Objective:[/HL] Sign a new Defense treaty</DescriptionObjective>
-				<ColonyEventDefinitionId>108</ColonyEventDefinitionId> <!-- The Great Direction - Friendlier -->
+				<ColonyEventDefinitionId>108</ColonyEventDefinitionId> 
 				<ObjectiveGameEventName>Great Direction - Friendlier Objective (Atuuk)</ObjectiveGameEventName>
 				<VictoryObjectiveName>Great Direction: Friendlier</VictoryObjectiveName>
 				<VictoryObjectiveAmount>0.15</VictoryObjectiveAmount>
@@ -386,7 +386,7 @@
 				<Name>Stronger</Name>
 				<DescriptionBonuses>[HL]Bonuses:[/HL]\n[ULI]+40% War Weariness Reduction[/ULI][ULI]+20% Ground Attack Strength[/ULI][ULI]+40% Troop Recovery Rate[/ULI][ULI]+20% Weapons Damage[/ULI][ULI]+40% Ship Construction Speed[/ULI][ULI]+40% Ship Repair Rate[/ULI]</DescriptionBonuses>
 				<DescriptionObjective>[HL]Victory Objective:[/HL] Destroy an enemy Battleship or Carrier</DescriptionObjective>
-				<ColonyEventDefinitionId>109</ColonyEventDefinitionId> <!-- The Great Direction - Stronger -->
+				<ColonyEventDefinitionId>109</ColonyEventDefinitionId> 
 				<ObjectiveGameEventName>Great Direction - Stronger Objective (Atuuk)</ObjectiveGameEventName>
 				<VictoryObjectiveName>Great Direction: Stronger</VictoryObjectiveName>
 				<VictoryObjectiveAmount>0.14</VictoryObjectiveAmount>
@@ -395,7 +395,7 @@
 				<Name>Richer</Name>
 				<DescriptionBonuses>[HL]Bonuses:[/HL]\n[ULI]+10% Colony Income[/ULI][ULI]+5% Colony Corruption Reduction[/ULI][ULI]+25% Trade Income[/ULI][ULI]+25% Tourism Income[/ULI]</DescriptionBonuses>
 				<DescriptionObjective>[HL]Victory Objective:[/HL] Achieve empire cashflow of +50K or greater</DescriptionObjective>
-				<ColonyEventDefinitionId>110</ColonyEventDefinitionId> <!-- The Great Direction - Richer -->
+				<ColonyEventDefinitionId>110</ColonyEventDefinitionId> 
 				<ObjectiveGameEventName>Great Direction - Richer Objective (Atuuk)</ObjectiveGameEventName>
 				<VictoryObjectiveName>Great Direction: Richer</VictoryObjectiveName>
 				<VictoryObjectiveAmount>0.14</VictoryObjectiveAmount>
@@ -404,7 +404,7 @@
 				<Name>Faster</Name>
 				<DescriptionBonuses>[HL]Bonuses:[/HL]\n[ULI]+40% Engine Research[/ULI][ULI]+40% Hyperdrive Research[/ULI][ULI]+25% Hyperjump Speed[/ULI][ULI]+25% Ship Speed[/ULI][ULI]+25% Ship Maneuvering[/ULI]</DescriptionBonuses>
 				<DescriptionObjective>[HL]Victory Objective:[/HL] Complete research in the Advanced Engines project</DescriptionObjective>
-				<ColonyEventDefinitionId>111</ColonyEventDefinitionId> <!-- The Great Direction - Faster -->
+				<ColonyEventDefinitionId>111</ColonyEventDefinitionId> 
 				<ObjectiveGameEventName>Great Direction - Faster Objective (Atuuk)</ObjectiveGameEventName>
 				<VictoryObjectiveName>Great Direction: Faster</VictoryObjectiveName>
 				<VictoryObjectiveAmount>0.14</VictoryObjectiveAmount>
@@ -413,7 +413,7 @@
 				<Name>Sneakier</Name>
 				<DescriptionBonuses>[HL]Bonuses:[/HL]\n[ULI]+40% Espionage[/ULI][ULI]+40% Counter Espionage[/ULI][ULI]+40% Sabotage[/ULI]</DescriptionBonuses>
 				<DescriptionObjective>[HL]Victory Objective:[/HL] Steal a research project of tech level 6 or higher</DescriptionObjective>
-				<ColonyEventDefinitionId>112</ColonyEventDefinitionId> <!-- The Great Direction - Sneakier -->
+				<ColonyEventDefinitionId>112</ColonyEventDefinitionId> 
 				<ObjectiveGameEventName>Great Direction - Sneakier Objective (Atuuk)</ObjectiveGameEventName>
 				<VictoryObjectiveName>Great Direction: Sneakier</VictoryObjectiveName>
 				<VictoryObjectiveAmount>0.14</VictoryObjectiveAmount>
@@ -422,7 +422,7 @@
 				<Name>Multiply</Name>
 				<DescriptionBonuses>[HL]Bonuses:[/HL]\n[ULI]+25% Population Growth Rate[/ULI]</DescriptionBonuses>
 				<DescriptionObjective>[HL]Victory Objective:[/HL] Achieve empire population of 100 billion</DescriptionObjective>
-				<ColonyEventDefinitionId>113</ColonyEventDefinitionId> <!-- The Great Direction - Multiply -->
+				<ColonyEventDefinitionId>113</ColonyEventDefinitionId> 
 				<ObjectiveGameEventName>Great Direction - Multiply Objective (Atuuk)</ObjectiveGameEventName>
 				<VictoryObjectiveName>Great Direction: Multiply</VictoryObjectiveName>
 				<VictoryObjectiveAmount>0.14</VictoryObjectiveAmount>
@@ -439,11 +439,11 @@
 		<NotGreatOneRetryIntervalMinimum>1</NotGreatOneRetryIntervalMinimum>
 		<NotGreatOneRetryIntervalMaximum>1</NotGreatOneRetryIntervalMaximum>
 		<EmpireDirectionChangeDoubtChance>0.2</EmpireDirectionChangeDoubtChance>
-		<EmpireDirectionChangeDoubtColonyEventId>114</EmpireDirectionChangeDoubtColonyEventId> <!-- Direction Doubt -->
+		<EmpireDirectionChangeDoubtColonyEventId>114</EmpireDirectionChangeDoubtColonyEventId> 
 		<RapidUnscheduledDisassemblyChancePerYear>0.2</RapidUnscheduledDisassemblyChancePerYear>
 		<RapidUnscheduledDisassemblyMinimumIntervalYears>1</RapidUnscheduledDisassemblyMinimumIntervalYears>
 		<WhatDoesThisButtonDoChanceWhenCriticalResearchSuccess>1</WhatDoesThisButtonDoChanceWhenCriticalResearchSuccess>
-		<WhatDoesThisButtonDoNotPushColonyEventId>115</WhatDoesThisButtonDoNotPushColonyEventId> <!-- You Didn't Push the Button -->
+		<WhatDoesThisButtonDoNotPushColonyEventId>115</WhatDoesThisButtonDoNotPushColonyEventId> 
 		<DeadlyInNumbersGroundCombatBonusAmount>0.25</DeadlyInNumbersGroundCombatBonusAmount>
 		<PsychicResistance>1</PsychicResistance>
 		<AdditionalCharacterTraits>
@@ -496,7 +496,7 @@
 			<string>[HL]Unique Scientist trait - Intuitive:[/HL] +10% Construction Research</string>
 			<string>[HL]Unique Spy trait - Cute But Deadly:[/HL] +10% Espionage, +10% Assassination</string>
 		</FeatureExplanations>
-		<DefaultInfantryId>43</DefaultInfantryId> <!-- Hunting Party -->
+		<DefaultInfantryId>43</DefaultInfantryId> 
 		<Name>Atuuk</Name>
 		<Description>Atuuks are a primitive, short, cuddly bear-like race with gold-green fur.
 

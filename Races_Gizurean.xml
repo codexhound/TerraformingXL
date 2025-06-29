@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
-<ArrayOfRace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version='1.0' encoding='utf-8'?>
+<ArrayOfRace>
 	<Race>
-		<RaceId>11</RaceId> <!-- Gizurean -->
+		<RaceId>11</RaceId> 
 		<BundleName>Gizurean</BundleName>
 		<FlagFilename>UserInterface/Flags/Gizurean_1</FlagFilename>
 		<AlternateFlagFilenames>
@@ -24,20 +24,20 @@
 			<A>0</A>
 		</SecondaryColor>
 		<ReproductionRate>1.09</ReproductionRate>
-		<AssimilationRate>0.5</AssimilationRate>
+		<AssimilationRate>0.25</AssimilationRate>
 		<MigrationFactor>1.2</MigrationFactor>
 		<Aggression>1.4</Aggression>
 		<Caution>0.85</Caution>
 		<Dependability>0.9</Dependability>
 		<IsPlayable>true</IsPlayable>
 		<PreferredGovernmentIds>
-			<short>14</short> <!-- Cell Hegemony -->
+			<short>14</short> 
 		</PreferredGovernmentIds>
 		<AllowableGovernmentIds>
-			<short>14</short> <!-- Cell Hegemony -->
-			<short>3</short> <!-- Feudalism -->
-			<short>0</short> <!-- Republic -->
-			<short>32759</short> <!-- Refugee Fleet -->
+			<short>14</short> 
+			<short>3</short> 
+			<short>0</short> 
+			<short>32759</short> 
 		</AllowableGovernmentIds>
 		<Bonuses>
 			<Bonus>
@@ -113,117 +113,117 @@
 		</Bonuses>
 		<ColonizationSuitabilityModifiers>
 			<OrbTypeFactor>
-				<OrbTypeId>9</OrbTypeId> <!-- Ocean -->
+				<OrbTypeId>9</OrbTypeId> 
 				<Factor>-0.05</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>10</OrbTypeId> <!-- Sandy Desert -->
+				<OrbTypeId>10</OrbTypeId> 
 				<Factor>0.4</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>12</OrbTypeId> <!-- Volcanic -->
+				<OrbTypeId>12</OrbTypeId> 
 				<Factor>0.25</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>19</OrbTypeId> <!-- Rocky Desert -->
+				<OrbTypeId>19</OrbTypeId> 
 				<Factor>0.3</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>20</OrbTypeId> <!-- Desert Savanna -->
+				<OrbTypeId>20</OrbTypeId> 
 				<Factor>0.1</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
-				<OrbTypeId>23</OrbTypeId> <!-- Deep Ocean -->
+				<OrbTypeId>23</OrbTypeId> 
 				<Factor>-0.05</Factor>
 			</OrbTypeFactor>
 		</ColonizationSuitabilityModifiers>
 		<StartingResearchProjectIds>
-			<short>768</short> <!-- Early Pulse Weapons -->
-			<short>4</short> <!-- Missile Weapons -->
-			<short>6</short> <!-- Ground Combat -->
-			<short>254</short> <!-- Starship Maneuvering -->
-			<short>385</short> <!-- Basic Countermeasures -->
+			<short>768</short> 
+			<short>4</short> 
+			<short>6</short> 
+			<short>254</short> 
+			<short>385</short> 
 		</StartingResearchProjectIds>
 		<Biases>
 			<RaceFactor>
-				<RaceId>0</RaceId> <!-- Human -->
-				<Factor>-1</Factor>
+				<RaceId>0</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>1</RaceId> <!-- Ackdarian -->
-				<Factor>-1</Factor>
+				<RaceId>1</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>2</RaceId> <!-- Teekan -->
-				<Factor>-0.8</Factor>
+				<RaceId>2</RaceId> 
+				<Factor>-1.200</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>3</RaceId> <!-- Haakonish -->
-				<Factor>-1</Factor>
+				<RaceId>3</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>4</RaceId> <!-- Mortalen -->
-				<Factor>-0.8</Factor>
+				<RaceId>4</RaceId> 
+				<Factor>-1.200</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>5</RaceId> <!-- Ikkuro -->
-				<Factor>-1</Factor>
+				<RaceId>5</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>6</RaceId> <!-- Boskara -->
-				<Factor>-0.4</Factor>
+				<RaceId>6</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>7</RaceId> <!-- Zenox -->
-				<Factor>-1</Factor>
+				<RaceId>7</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>8</RaceId> <!-- Wekkarus -->
-				<Factor>-1</Factor>
+				<RaceId>8</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>9</RaceId> <!-- Atuuk -->
-				<Factor>-0.8</Factor>
+				<RaceId>9</RaceId> 
+				<Factor>-1.200</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>10</RaceId> <!-- Dhayut -->
-				<Factor>-0.4</Factor>
+				<RaceId>10</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>11</RaceId> <!-- Gizurean -->
-				<Factor>-0.4</Factor>
+				<RaceId>11</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>12</RaceId> <!-- Ketarov -->
-				<Factor>-1</Factor>
+				<RaceId>12</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>13</RaceId> <!-- Kiadian -->
-				<Factor>-1</Factor>
+				<RaceId>13</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>14</RaceId> <!-- Naxxilian -->
-				<Factor>-0.8</Factor>
+				<RaceId>14</RaceId> 
+				<Factor>-1.200</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>15</RaceId> <!-- Quameno -->
-				<Factor>-1</Factor>
+				<RaceId>15</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>16</RaceId> <!-- Securan -->
-				<Factor>-0.7</Factor>
+				<RaceId>16</RaceId> 
+				<Factor>-1.050</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>17</RaceId> <!-- Shandar -->
-				<Factor>-1</Factor>
+				<RaceId>17</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>18</RaceId> <!-- Sluken -->
-				<Factor>-0.4</Factor>
+				<RaceId>18</RaceId> 
+				<Factor>-0.600</Factor>
 			</RaceFactor>
 			<RaceFactor>
-				<RaceId>19</RaceId> <!-- Ugnari -->
-				<Factor>-1</Factor>
+				<RaceId>19</RaceId> 
+				<Factor>-1.500</Factor>
 			</RaceFactor>
 		</Biases>
 		<DesignNames>
@@ -342,7 +342,7 @@
 		<RetireAdvancedTechBoostFactor>0.1</RetireAdvancedTechBoostFactor>
 		<RetireCompleteAdvancedTechBonusResearchAmount>30</RetireCompleteAdvancedTechBonusResearchAmount>
 		<ColonyConquestGameEventName>Scouring Choice (Gizurean)</ColonyConquestGameEventName>
-		<OtherRaceExterminateColonyEventDefinitionId>73</OtherRaceExterminateColonyEventDefinitionId> <!-- Breeding World -->
+		<OtherRaceExterminateColonyEventDefinitionId>73</OtherRaceExterminateColonyEventDefinitionId> 
 		<AdditionalCharacterTraits>
 			<CharacterTraitType>GiftedConduit</CharacterTraitType>
 			<CharacterTraitType>ControllingMind</CharacterTraitType>
@@ -377,7 +377,7 @@
 			<string>[HL]Unique General trait - Swarm Lord:[/HL] +10% Troop Recruitment Rate, +10% Troop Maintenance Savings</string>
 			<string>[HL]Unique General trait - Larva Overseer:[/HL] +10% Troop Recovery Rate</string>
 		</FeatureExplanations>
-		<DefaultInfantryId>45</DefaultInfantryId> <!-- War Swarm -->
+		<DefaultInfantryId>45</DefaultInfantryId> 
 		<Name>Gizurean</Name>
 		<Description>Gizureans are an insectoid race with four arms. Gizureans can also fly short distances with their small wings.
 
