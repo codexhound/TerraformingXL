@@ -55,27 +55,27 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>7</OrbTypeId>
-				<Factor>0.002800</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>8</OrbTypeId>
-				<Factor>0.002800</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>9</OrbTypeId>
-				<Factor>0.002800</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.006338</Factor>
+				<Factor>0.002100</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.003169</Factor>
+				<Factor>0.002100</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -103,31 +103,31 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>23</OrbTypeId>
-				<Factor>0.003600</Factor>
+				<Factor>0.000630</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>17</OrbTypeId>
-				<Factor>0.003200</Factor>
+				<Factor>0.000800</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>18</OrbTypeId>
-				<Factor>0.003200</Factor>
+				<Factor>0.000800</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>24</OrbTypeId>
@@ -139,19 +139,19 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.016900</Factor>
+				<Factor>0.002800</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>27</OrbTypeId>
-				<Factor>0.003600</Factor>
+				<Factor>0.000900</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.002112</Factor>
+				<Factor>0.001400</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.002112</Factor>
+				<Factor>0.001400</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -247,27 +247,27 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>7</OrbTypeId>
-				<Factor>0.002400</Factor>
+				<Factor>0.000600</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>8</OrbTypeId>
-				<Factor>0.002400</Factor>
+				<Factor>0.000600</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>9</OrbTypeId>
-				<Factor>0.002800</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.007394</Factor>
+				<Factor>0.002450</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.003697</Factor>
+				<Factor>0.002450</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -295,31 +295,31 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>23</OrbTypeId>
-				<Factor>0.003200</Factor>
+				<Factor>0.000560</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>17</OrbTypeId>
-				<Factor>0.002800</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>18</OrbTypeId>
-				<Factor>0.002800</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.006338</Factor>
+				<Factor>0.002100</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>24</OrbTypeId>
@@ -331,19 +331,19 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.016900</Factor>
-			</OrbTypeFactor>
-			<OrbTypeFactor>
-				<OrbTypeId>27</OrbTypeId>
 				<Factor>0.002800</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
+				<OrbTypeId>27</OrbTypeId>
+				<Factor>0.000700</Factor>
+			</OrbTypeFactor>
+			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.002641</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.002641</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -439,27 +439,27 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>7</OrbTypeId>
-				<Factor>0.002000</Factor>
+				<Factor>0.000500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>8</OrbTypeId>
-				<Factor>0.002000</Factor>
+				<Factor>0.000500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>9</OrbTypeId>
-				<Factor>0.002800</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.008450</Factor>
+				<Factor>0.002800</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.003500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -487,31 +487,31 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>23</OrbTypeId>
-				<Factor>0.003200</Factor>
+				<Factor>0.000560</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>17</OrbTypeId>
-				<Factor>0.002000</Factor>
+				<Factor>0.000500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>18</OrbTypeId>
-				<Factor>0.002000</Factor>
+				<Factor>0.000500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.007394</Factor>
+				<Factor>0.002450</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>24</OrbTypeId>
@@ -523,19 +523,19 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.016900</Factor>
+				<Factor>0.002800</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>27</OrbTypeId>
-				<Factor>0.002000</Factor>
+				<Factor>0.000500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.002641</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.002641</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -631,15 +631,15 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.008450</Factor>
+				<Factor>0.002800</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.006338</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -667,19 +667,19 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.008450</Factor>
+				<Factor>0.002800</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>25</OrbTypeId>
@@ -687,15 +687,15 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.042250</Factor>
+				<Factor>0.007000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.003169</Factor>
+				<Factor>0.002100</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.003169</Factor>
+				<Factor>0.002100</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -814,11 +814,11 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.012675</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.006338</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -842,11 +842,11 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.012675</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.014788</Factor>
+				<Factor>0.004900</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>25</OrbTypeId>
@@ -854,15 +854,15 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.042250</Factor>
+				<Factor>0.007000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.003169</Factor>
+				<Factor>0.002100</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.003169</Factor>
+				<Factor>0.002100</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -988,7 +988,7 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.063375</Factor>
+				<Factor>0.010500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>16</OrbTypeId>
@@ -1264,14 +1264,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.650000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.6</QualityRangeMinimum>
 		<QualityRangeMaximum>1</QualityRangeMaximum>
-		<QualityRangeMedian>0.670000</QualityRangeMedian>
+		<QualityRangeMedian>0.62</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -1465,14 +1465,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.490000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.44</QualityRangeMinimum>
 		<QualityRangeMaximum>0.74</QualityRangeMaximum>
-		<QualityRangeMedian>0.530000</QualityRangeMedian>
+		<QualityRangeMedian>0.48</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -1646,14 +1646,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.400000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.35</QualityRangeMinimum>
 		<QualityRangeMaximum>0.75</QualityRangeMaximum>
-		<QualityRangeMedian>0.470000</QualityRangeMedian>
+		<QualityRangeMedian>0.42</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -1841,14 +1841,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.200000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.15</QualityRangeMinimum>
 		<QualityRangeMaximum>0.5</QualityRangeMaximum>
-		<QualityRangeMedian>0.220000</QualityRangeMedian>
+		<QualityRangeMedian>0.17</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.112</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.496</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -2037,14 +2037,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.169000</Factor>
+				<Factor>0.028000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.210000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.16</QualityRangeMinimum>
 		<QualityRangeMaximum>0.48</QualityRangeMaximum>
-		<QualityRangeMedian>0.270000</QualityRangeMedian>
+		<QualityRangeMedian>0.22</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.752</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>1</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -2223,14 +2223,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.150000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.1</QualityRangeMinimum>
 		<QualityRangeMaximum>0.4</QualityRangeMaximum>
-		<QualityRangeMedian>0.200000</QualityRangeMedian>
+		<QualityRangeMedian>0.15</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.048</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.176</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -2391,14 +2391,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.15</QualityRangeMaximum>
-		<QualityRangeMedian>0.065000</QualityRangeMedian>
+		<QualityRangeMedian>0.015</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.102</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.544</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -2508,27 +2508,27 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>7</OrbTypeId>
-				<Factor>0.006000</Factor>
+				<Factor>0.001500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>8</OrbTypeId>
-				<Factor>0.006000</Factor>
+				<Factor>0.001500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>9</OrbTypeId>
-				<Factor>0.006000</Factor>
+				<Factor>0.001500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.012675</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.012675</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.006338</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -2536,31 +2536,31 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>23</OrbTypeId>
-				<Factor>0.008000</Factor>
+				<Factor>0.001400</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>17</OrbTypeId>
-				<Factor>0.008000</Factor>
+				<Factor>0.002000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>18</OrbTypeId>
-				<Factor>0.008000</Factor>
+				<Factor>0.002000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.012675</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.012675</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.002112</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.002112</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>25</OrbTypeId>
@@ -2568,26 +2568,26 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.025350</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>27</OrbTypeId>
-				<Factor>0.008000</Factor>
+				<Factor>0.002000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.007394</Factor>
+				<Factor>0.004900</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.006338</Factor>
+				<Factor>0.004200</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>3</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.1</QualityRangeMaximum>
-		<QualityRangeMedian>0.060000</QualityRangeMedian>
+		<QualityRangeMedian>0.01</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.496</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.72</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>11000</DiameterMinimum>
@@ -2705,11 +2705,11 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.031688</Factor>
+				<Factor>0.010500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.009506</Factor>
+				<Factor>0.006300</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -2717,11 +2717,11 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.031688</Factor>
+				<Factor>0.010500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.031688</Factor>
+				<Factor>0.010500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>25</OrbTypeId>
@@ -2729,22 +2729,22 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.067600</Factor>
+				<Factor>0.011200</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.009506</Factor>
+				<Factor>0.006300</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.009506</Factor>
+				<Factor>0.006300</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>2</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.1</QualityRangeMaximum>
-		<QualityRangeMedian>0.060000</QualityRangeMedian>
+		<QualityRangeMedian>0.01</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.736</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>1</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>9000</DiameterMinimum>
@@ -3027,14 +3027,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.600000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.55</QualityRangeMinimum>
 		<QualityRangeMaximum>0.88</QualityRangeMaximum>
-		<QualityRangeMedian>0.620000</QualityRangeMedian>
+		<QualityRangeMedian>0.57</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3204,14 +3204,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.550000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.5</QualityRangeMinimum>
 		<QualityRangeMaximum>0.8</QualityRangeMaximum>
-		<QualityRangeMedian>0.600000</QualityRangeMedian>
+		<QualityRangeMedian>0.55</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3390,14 +3390,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.190000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.14</QualityRangeMinimum>
 		<QualityRangeMaximum>0.49</QualityRangeMaximum>
-		<QualityRangeMedian>0.200000</QualityRangeMedian>
+		<QualityRangeMedian>0.15</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.112</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.496</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3562,14 +3562,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.300000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.25</QualityRangeMinimum>
 		<QualityRangeMaximum>0.6</QualityRangeMaximum>
-		<QualityRangeMedian>0.360000</QualityRangeMedian>
+		<QualityRangeMedian>0.31</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.112</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.496</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3718,14 +3718,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.169000</Factor>
+				<Factor>0.028000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.290000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.24</QualityRangeMinimum>
 		<QualityRangeMaximum>0.6</QualityRangeMaximum>
-		<QualityRangeMedian>0.340000</QualityRangeMedian>
+		<QualityRangeMedian>0.29</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.752</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>1</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -3900,14 +3900,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.169000</Factor>
+				<Factor>0.028000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.180000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.13</QualityRangeMinimum>
 		<QualityRangeMaximum>0.45</QualityRangeMaximum>
-		<QualityRangeMedian>0.290000</QualityRangeMedian>
+		<QualityRangeMedian>0.24</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.752</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>1</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -4082,14 +4082,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.370000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.32</QualityRangeMinimum>
 		<QualityRangeMaximum>0.67</QualityRangeMaximum>
-		<QualityRangeMedian>0.420000</QualityRangeMedian>
+		<QualityRangeMedian>0.37</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -4259,11 +4259,11 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.021125</Factor>
+				<Factor>0.007000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.015844</Factor>
+				<Factor>0.010500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -4271,11 +4271,11 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.021125</Factor>
+				<Factor>0.007000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.021125</Factor>
+				<Factor>0.007000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>25</OrbTypeId>
@@ -4283,22 +4283,22 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.042250</Factor>
+				<Factor>0.007000</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.015844</Factor>
+				<Factor>0.010500</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.010563</Factor>
+				<Factor>0.007000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>2</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.05</QualityRangeMaximum>
-		<QualityRangeMedian>0.100000</QualityRangeMedian>
+		<QualityRangeMedian>0.05</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.496</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.72</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>14000</DiameterMinimum>
@@ -4425,14 +4425,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.15</QualityRangeMaximum>
-		<QualityRangeMedian>0.065000</QualityRangeMedian>
+		<QualityRangeMedian>0.015</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.102</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.544</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -4570,14 +4570,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.169000</Factor>
+				<Factor>0.028000</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
 		<QualityRangeMinimum>0</QualityRangeMinimum>
 		<QualityRangeMaximum>0.2</QualityRangeMaximum>
-		<QualityRangeMedian>0.070000</QualityRangeMedian>
+		<QualityRangeMedian>0.02</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.102</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.544</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -4728,14 +4728,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.510000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.46</QualityRangeMinimum>
 		<QualityRangeMaximum>0.8</QualityRangeMaximum>
-		<QualityRangeMedian>0.550000</QualityRangeMedian>
+		<QualityRangeMedian>0.5</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.192</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.448</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -4875,27 +4875,27 @@
 		<ChildTypes>
 			<OrbTypeFactor>
 				<OrbTypeId>7</OrbTypeId>
-				<Factor>0.002400</Factor>
+				<Factor>0.000600</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>8</OrbTypeId>
-				<Factor>0.002400</Factor>
+				<Factor>0.000600</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>9</OrbTypeId>
-				<Factor>0.002800</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>10</OrbTypeId>
-				<Factor>0.007394</Factor>
+				<Factor>0.002450</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>11</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>12</OrbTypeId>
-				<Factor>0.003697</Factor>
+				<Factor>0.002450</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>13</OrbTypeId>
@@ -4923,31 +4923,31 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>23</OrbTypeId>
-				<Factor>0.003200</Factor>
+				<Factor>0.000560</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>17</OrbTypeId>
-				<Factor>0.002800</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>18</OrbTypeId>
-				<Factor>0.002800</Factor>
+				<Factor>0.000700</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>19</OrbTypeId>
-				<Factor>0.006338</Factor>
+				<Factor>0.002100</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>20</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>21</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>22</OrbTypeId>
-				<Factor>0.005281</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>24</OrbTypeId>
@@ -4959,19 +4959,19 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.016900</Factor>
-			</OrbTypeFactor>
-			<OrbTypeFactor>
-				<OrbTypeId>27</OrbTypeId>
 				<Factor>0.002800</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
+				<OrbTypeId>27</OrbTypeId>
+				<Factor>0.000700</Factor>
+			</OrbTypeFactor>
+			<OrbTypeFactor>
 				<OrbTypeId>29</OrbTypeId>
-				<Factor>0.002641</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>30</OrbTypeId>
-				<Factor>0.002641</Factor>
+				<Factor>0.001750</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
@@ -5123,14 +5123,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.150000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.1</QualityRangeMinimum>
 		<QualityRangeMaximum>0.39</QualityRangeMaximum>
-		<QualityRangeMedian>0.310000</QualityRangeMedian>
+		<QualityRangeMedian>0.26</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.048</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.236</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
@@ -5293,14 +5293,14 @@
 			</OrbTypeFactor>
 			<OrbTypeFactor>
 				<OrbTypeId>26</OrbTypeId>
-				<Factor>0.105625</Factor>
+				<Factor>0.017500</Factor>
 			</OrbTypeFactor>
 		</ChildTypes>
 		<ChildCountMinimum>0</ChildCountMinimum>
 		<ChildCountMaximum>1</ChildCountMaximum>
-		<QualityRangeMinimum>0.100000</QualityRangeMinimum>
+		<QualityRangeMinimum>0.05</QualityRangeMinimum>
 		<QualityRangeMaximum>0.35</QualityRangeMaximum>
-		<QualityRangeMedian>0.150000</QualityRangeMedian>
+		<QualityRangeMedian>0.1</QualityRangeMedian>
 		<OrbitalDistanceFromSunRatioMinimum>0.098</OrbitalDistanceFromSunRatioMinimum>
 		<OrbitalDistanceFromSunRatioMaximum>0.276</OrbitalDistanceFromSunRatioMaximum>
 		<DiameterMinimum>4000</DiameterMinimum>
